@@ -40,14 +40,14 @@ def generateSQL (table):
     for obj in data:
         values = [str(obj.get(field, '')) for field in fields]
         values = [value.replace("'", "''") if "'" in value else value for value in values]
-        values = [', '.join(["'" + str(value) + "'" for value in values])]
+        values = [', '.join([None if value is None else "'" + str(value) + "'" for value in values])]
 
-        statement = f"({', '.join(values)});"
+        values = f"({', '.join(values)})"
 
-        sql_values.append(statement)
+        sql_values.append(values)
 
     with open("./result/sql/" + table + ".sql", 'w', encoding='utf-8') as sql_file:
-        sql_file.write(sql_insert + '\n'.join(sql_values))
+        sql_file.write(sql_insert + ',\n'.join(sql_values))
 
     print(table.upper() + " sql generated.")
 
