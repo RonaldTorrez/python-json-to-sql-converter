@@ -92,35 +92,37 @@ for entry in original_data:
 
     if "timezones" in entry:
         for timezone_entry in entry["timezones"]:
-            timezone_entry_with_country = timezone_entry.copy()
-            timezone_entry_with_country["country_id"] = entry["id"]
+            timezone_entry = timezone_entry.copy()
+            timezone_entry.pop("gmtOffset")
+            timezone_entry["country_id"] = entry["id"]
 
-            country_entry["created_at"] = timestampTz
-            country_entry["updated_at"] = timestampTz
+            timezone_entry["created_at"] = timestampTz
+            timezone_entry["updated_at"] = timestampTz
 
-            timezones_data.append(timezone_entry_with_country)
+            timezones_data.append(timezone_entry)
 
     if "states" in entry:
         for state_entry in entry["states"]:
-            state_entry_with_country = state_entry.copy()
-            state_entry_with_country.pop("cities")
-            state_entry_with_country["country_id"] = entry["id"]
+            state_entry = state_entry.copy()
+            state_entry.pop("cities")
+            state_entry["country_id"] = entry["id"]
 
-            country_entry["created_at"] = timestampTz
-            country_entry["updated_at"] = timestampTz
+            state_entry["created_at"] = timestampTz
+            state_entry["updated_at"] = timestampTz
 
-            states_data.append(state_entry_with_country)
+            states_data.append(state_entry)
 
             if "cities" in state_entry:
                 for city_entry in state_entry["cities"]:
-                    city_entry_with_state = city_entry.copy()
-                    city_entry_with_state["state_id"] = state_entry["id"]
-                    city_entry_with_state["country_id"] = entry["id"]
+                    city_entry = city_entry.copy()
 
-                    country_entry["created_at"] = timestampTz
-                    country_entry["updated_at"] = timestampTz
+                    city_entry["state_id"] = state_entry["id"]
+                    city_entry["country_id"] = entry["id"]
 
-                    cities_data.append(city_entry_with_state)
+                    city_entry["created_at"] = timestampTz
+                    city_entry["updated_at"] = timestampTz
+
+                    cities_data.append(city_entry)
 
     if "es" in entry["translations"]:
         translation_entry = {
