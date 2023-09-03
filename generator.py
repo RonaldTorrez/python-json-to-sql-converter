@@ -49,7 +49,7 @@ def generateSQL (table):
     with open("./result/sql/" + table + ".sql", 'w', encoding='utf-8') as sql_file:
         sql_file.write(sql_insert + ',\n'.join(sql_values))
 
-    print(table.upper() + " sql generated.")
+    print( "🛢" + table.upper() + " sql generated.")
 
 
 
@@ -57,7 +57,7 @@ def saveJSON(name, data):
     with open("./result/json/"+ name +".json", "w", encoding="utf-8") as json_file:
         json.dump(data, json_file, indent=4, ensure_ascii=False)
 
-    print(name.upper() + " json generated.")
+    print("📑" + name.upper() + " json generated.")
 
 
 
