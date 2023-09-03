@@ -53,7 +53,7 @@ def generateSQL (table):
 
 
 
-def generateJSON(name, data):
+def saveJSON(name, data):
     with open("./result/json/"+ name +".json", "w", encoding="utf-8") as json_file:
         json.dump(data, json_file, indent=4, ensure_ascii=False)
 
@@ -116,17 +116,17 @@ for entry in original_data:
 # RUN FUNCTIONS
 # =============================
 
-generateJSON("countries", countries_data)
+saveJSON("countries", countries_data)
 generateSQL("countries")
 
-generateJSON("timezones", timezones_data)
+saveJSON("timezones", timezones_data)
 generateSQL("timezones")
 
-generateJSON("translations", translations_data)
+saveJSON("translations", translations_data)
 generateSQL("translations")
 
-generateJSON("states", states_data)
+saveJSON("states", states_data)
 generateSQL("states")
 
-generateJSON("cities", cities_data)
+saveJSON("cities", cities_data)
 generateSQL("cities")
