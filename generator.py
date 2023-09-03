@@ -1,5 +1,9 @@
 import json
 import os
+from datetime import datetime
+
+timestampTz = datetime.now()
+timestampTz = timestampTz.strftime("%Y-%m-%d %H:%M:%S") + " +00:00"
 
 # =============================
 # FOLDERS
@@ -80,12 +84,20 @@ for entry in original_data:
     country_entry.pop("timezones")
     country_entry.pop("translations")
     country_entry.pop("states")
+
+    country_entry["created_at"] = timestampTz
+    country_entry["updated_at"] = timestampTz
+
     countries_data.append(country_entry)
 
     if "timezones" in entry:
         for timezone_entry in entry["timezones"]:
             timezone_entry_with_country = timezone_entry.copy()
             timezone_entry_with_country["country_id"] = entry["id"]
+
+            country_entry["created_at"] = timestampTz
+            country_entry["updated_at"] = timestampTz
+
             timezones_data.append(timezone_entry_with_country)
 
     if "states" in entry:
@@ -93,6 +105,10 @@ for entry in original_data:
             state_entry_with_country = state_entry.copy()
             state_entry_with_country.pop("cities")
             state_entry_with_country["country_id"] = entry["id"]
+
+            country_entry["created_at"] = timestampTz
+            country_entry["updated_at"] = timestampTz
+
             states_data.append(state_entry_with_country)
 
             if "cities" in state_entry:
@@ -100,13 +116,19 @@ for entry in original_data:
                     city_entry_with_state = city_entry.copy()
                     city_entry_with_state["state_id"] = state_entry["id"]
                     city_entry_with_state["country_id"] = entry["id"]
+
+                    country_entry["created_at"] = timestampTz
+                    country_entry["updated_at"] = timestampTz
+
                     cities_data.append(city_entry_with_state)
 
     if "es" in entry["translations"]:
         translation_entry = {
             "lang": "es",
             "name": entry["translations"]["es"],
-            "country_id": entry["id"]
+            "country_id": entry["id"],
+            "created_at": timestampTz,
+            "updated_at": timestampTz
         }
         translations_data.append(translation_entry)
 
