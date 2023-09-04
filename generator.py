@@ -86,18 +86,19 @@ for entry in original_data:
     country_entry.pop("states")
 
     country_entry["created_at"] = timestampTz
-    country_entry["updated_at"] = timestampTz
 
     countries_data.append(country_entry)
 
     if "timezones" in entry:
         for timezone_entry in entry["timezones"]:
-            timezone_entry = timezone_entry.copy()
-            timezone_entry.pop("gmtOffset")
-            timezone_entry["country_id"] = entry["id"]
-
-            timezone_entry["created_at"] = timestampTz
-            timezone_entry["updated_at"] = timestampTz
+            timezone_entry = {
+                "name": timezone_entry["tzName"],
+                "zone_name": timezone_entry["zoneName"],
+                "tz": timezone_entry["gmtOffsetName"],
+                "abbreviation": timezone_entry["abbreviation"],
+                "country_id": entry["id"],
+                "created_at": timestampTz
+            }
 
             timezones_data.append(timezone_entry)
 
@@ -108,7 +109,6 @@ for entry in original_data:
             state_entry["country_id"] = entry["id"]
 
             state_entry["created_at"] = timestampTz
-            state_entry["updated_at"] = timestampTz
 
             states_data.append(state_entry)
 
@@ -120,7 +120,6 @@ for entry in original_data:
                     city_entry["country_id"] = entry["id"]
 
                     city_entry["created_at"] = timestampTz
-                    city_entry["updated_at"] = timestampTz
 
                     cities_data.append(city_entry)
 
@@ -129,8 +128,7 @@ for entry in original_data:
             "lang": "es",
             "name": entry["translations"]["es"],
             "country_id": entry["id"],
-            "created_at": timestampTz,
-            "updated_at": timestampTz
+            "created_at": timestampTz
         }
         translations_data.append(translation_entry)
 
