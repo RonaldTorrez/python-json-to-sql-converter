@@ -1,4 +1,3 @@
-
 # Python JSON to SQL Converter
 
 ---
@@ -29,12 +28,15 @@ To deploy this project run:
 ```
 
 ```bash
-    python3 generator.py 
+    python3 main.py 
 ```
+
+After that, in result folder, you can see all new files generated.
 
 ## Feedback
 
 If you have any feedback, please reach out to us at dev@ronaldtorrez.com
 
 ## 🛠 Skills
+
 Python, JSON, SQL
