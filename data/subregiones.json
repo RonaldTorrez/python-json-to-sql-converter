@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Southern Asia"
+    },
+    {
+        "id": 2,
+        "name": "Northern Europe"
+    },
+    {
+        "id": 3,
+        "name": "Southern Europe"
+    },
+    {
+        "id": 4,
+        "name": "Northern Africa"
+    },
+    {
+        "id": 5,
+        "name": "Polynesia"
+    },
+    {
+        "id": 6,
+        "name": "Middle Africa"
+    },
+    {
+        "id": 7,
+        "name": "Caribbean"
+    },
+    {
+        "id": 8,
+        "name": "South America"
+    },
+    {
+        "id": 9,
+        "name": "Western Asia"
+    },
+    {
+        "id": 10,
+        "name": "Australia and New Zealand"
+    },
+    {
+        "id": 11,
+        "name": "Western Europe"
+    },
+    {
+        "id": 12,
+        "name": "Eastern Europe"
+    },
+    {
+        "id": 13,
+        "name": "Central America"
+    },
+    {
+        "id": 14,
+        "name": "Western Africa"
+    },
+    {
+        "id": 15,
+        "name": "Northern America"
+    },
+    {
+        "id": 16,
+        "name": "Southern Africa"
+    },
+    {
+        "id": 17,
+        "name": "Eastern Africa"
+    },
+    {
+        "id": 18,
+        "name": "South-Eastern Asia"
+    },
+    {
+        "id": 19,
+        "name": "Eastern Asia"
+    },
+    {
+        "id": 20,
+        "name": "Melanesia"
+    },
+    {
+        "id": 21,
+        "name": "Micronesia"
+    },
+    {
+        "id": 22,
+        "name": "Central Asia"
+    }
+]

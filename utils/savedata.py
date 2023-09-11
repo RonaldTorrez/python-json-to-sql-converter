@@ -18,7 +18,7 @@ def save_json(name: str, data, directory: str = json_dir()):
 		print_error(f"Error to save {name}.json", error)
 
 
-def save_sql(json_name: str, table_name: str = '', directory: str = sql_dir()):
+def save_sql(json_name: str, table_name: str = "", directory: str = sql_dir()):
 	try:
 		table_name = json_name if not table_name else table_name
 		file = table_name + ".sql"

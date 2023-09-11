@@ -28,3 +28,17 @@ def load_languages_data():
 		"languages",
 		data_dir()
 	)
+
+
+def load_regiones_data():
+	return get_json_data(
+		"regiones",
+		data_dir()
+	)
+
+
+def load_subregiones_data():
+	return get_json_data(
+		"subregiones",
+		data_dir()
+	)
