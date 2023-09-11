@@ -1,4 +1,4 @@
-from generators import cities, country, country_translate, state, timezone
+from generators import cities, country, country_language, country_translate, language, state, timezone
 from utils.path import clean_dir, generate_dirs, json_dir, sql_dir
 
 
@@ -22,6 +22,8 @@ def main():
 	timezone.generate_files()
 	state.generate_files()
 	cities.generate_files()
+	language.generate_files()
+	country_language.generate_files()
 
 
 if __name__ == "__main__":

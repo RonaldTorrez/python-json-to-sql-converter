@@ -10,7 +10,8 @@ def get_json_data(name: str, directory: str) -> object:
 
 		with open(file, "r", encoding="utf-8") as json_file:
 			data: object = json.load(json_file)
-
+			
 		return data
+
 	except Exception as e:
 		print_error(f"Error to load {name}.json: ", e)
