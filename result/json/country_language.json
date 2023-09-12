@@ -1,0 +1,2522 @@
+[
+    {
+        "id": 1,
+        "country_id": 1,
+        "language_id": 127,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 2,
+        "country_id": 1,
+        "language_id": 126,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 3,
+        "country_id": 2,
+        "language_id": 153,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 4,
+        "country_id": 3,
+        "language_id": 5,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 5,
+        "country_id": 4,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 6,
+        "country_id": 5,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 7,
+        "country_id": 5,
+        "language_id": 137,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 8,
+        "country_id": 6,
+        "language_id": 25,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 9,
+        "country_id": 7,
+        "language_id": 129,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 10,
+        "country_id": 8,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 11,
+        "country_id": 9,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 12,
+        "country_id": 9,
+        "language_id": 149,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 13,
+        "country_id": 9,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 14,
+        "country_id": 9,
+        "language_id": 135,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 15,
+        "country_id": 10,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 16,
+        "country_id": 11,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 17,
+        "country_id": 12,
+        "language_id": 9,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 18,
+        "country_id": 13,
+        "language_id": 39,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 19,
+        "country_id": 14,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 20,
+        "country_id": 15,
+        "language_id": 55,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 21,
+        "country_id": 16,
+        "language_id": 14,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 22,
+        "country_id": 18,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 23,
+        "country_id": 19,
+        "language_id": 19,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 24,
+        "country_id": 20,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 25,
+        "country_id": 21,
+        "language_id": 18,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 26,
+        "country_id": 21,
+        "language_id": 135,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 27,
+        "country_id": 22,
+        "language_id": 39,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 28,
+        "country_id": 22,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 29,
+        "country_id": 22,
+        "language_id": 55,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 30,
+        "country_id": 23,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 31,
+        "country_id": 24,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 32,
+        "country_id": 25,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 33,
+        "country_id": 26,
+        "language_id": 40,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 34,
+        "country_id": 27,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 35,
+        "country_id": 27,
+        "language_id": 131,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 36,
+        "country_id": 27,
+        "language_id": 58,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 37,
+        "country_id": 27,
+        "language_id": 13,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 38,
+        "country_id": 155,
+        "language_id": 39,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 39,
+        "country_id": 28,
+        "language_id": 21,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 40,
+        "country_id": 28,
+        "language_id": 35,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 41,
+        "country_id": 28,
+        "language_id": 141,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 42,
+        "country_id": 29,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 43,
+        "country_id": 29,
+        "language_id": 165,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 44,
+        "country_id": 30,
+        "language_id": 116,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 45,
+        "country_id": 31,
+        "language_id": 129,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 46,
+        "country_id": 32,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 47,
+        "country_id": 33,
+        "language_id": 102,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 48,
+        "country_id": 34,
+        "language_id": 23,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 49,
+        "country_id": 35,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 50,
+        "country_id": 36,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 51,
+        "country_id": 37,
+        "language_id": 83,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 52,
+        "country_id": 38,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 53,
+        "country_id": 38,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 54,
+        "country_id": 39,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 55,
+        "country_id": 39,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 56,
+        "country_id": 40,
+        "language_id": 129,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 57,
+        "country_id": 41,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 58,
+        "country_id": 42,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 59,
+        "country_id": 42,
+        "language_id": 138,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 60,
+        "country_id": 43,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 61,
+        "country_id": 43,
+        "language_id": 7,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 62,
+        "country_id": 44,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 63,
+        "country_id": 46,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 64,
+        "country_id": 47,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 65,
+        "country_id": 48,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 66,
+        "country_id": 49,
+        "language_id": 7,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 67,
+        "country_id": 49,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 68,
+        "country_id": 49,
+        "language_id": 151,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 69,
+        "country_id": 50,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 70,
+        "country_id": 52,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 71,
+        "country_id": 53,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 72,
+        "country_id": 54,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 73,
+        "country_id": 55,
+        "language_id": 35,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 74,
+        "country_id": 56,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 75,
+        "country_id": 249,
+        "language_id": 39,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 76,
+        "country_id": 249,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 77,
+        "country_id": 57,
+        "language_id": 56,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 78,
+        "country_id": 57,
+        "language_id": 166,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 79,
+        "country_id": 58,
+        "language_id": 36,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 80,
+        "country_id": 51,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 81,
+        "country_id": 59,
+        "language_id": 37,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 82,
+        "country_id": 60,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 83,
+        "country_id": 60,
+        "language_id": 7,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 84,
+        "country_id": 60,
+        "language_id": 147,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 85,
+        "country_id": 60,
+        "language_id": 2,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 86,
+        "country_id": 61,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 87,
+        "country_id": 62,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 88,
+        "country_id": 63,
+        "language_id": 129,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 89,
+        "country_id": 64,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 90,
+        "country_id": 65,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 91,
+        "country_id": 66,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 92,
+        "country_id": 67,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 93,
+        "country_id": 67,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 94,
+        "country_id": 67,
+        "language_id": 129,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 95,
+        "country_id": 68,
+        "language_id": 162,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 96,
+        "country_id": 68,
+        "language_id": 7,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 97,
+        "country_id": 68,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 98,
+        "country_id": 69,
+        "language_id": 43,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 99,
+        "country_id": 70,
+        "language_id": 6,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 100,
+        "country_id": 70,
+        "language_id": 123,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 101,
+        "country_id": 71,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 102,
+        "country_id": 72,
+        "language_id": 45,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 103,
+        "country_id": 72,
+        "language_id": 37,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 104,
+        "country_id": 73,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 105,
+        "country_id": 74,
+        "language_id": 47,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 106,
+        "country_id": 74,
+        "language_id": 153,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 107,
+        "country_id": 74,
+        "language_id": 136,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 108,
+        "country_id": 75,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 109,
+        "country_id": 76,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 110,
+        "country_id": 77,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 111,
+        "country_id": 78,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 112,
+        "country_id": 79,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 113,
+        "country_id": 80,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 114,
+        "country_id": 81,
+        "language_id": 54,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 115,
+        "country_id": 82,
+        "language_id": 55,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 116,
+        "country_id": 83,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 117,
+        "country_id": 84,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 118,
+        "country_id": 85,
+        "language_id": 56,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 119,
+        "country_id": 86,
+        "language_id": 57,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 120,
+        "country_id": 86,
+        "language_id": 37,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 121,
+        "country_id": 87,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 122,
+        "country_id": 88,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 123,
+        "country_id": 89,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 124,
+        "country_id": 89,
+        "language_id": 26,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 125,
+        "country_id": 90,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 126,
+        "country_id": 91,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 127,
+        "country_id": 92,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 128,
+        "country_id": 93,
+        "language_id": 129,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 129,
+        "country_id": 94,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 130,
+        "country_id": 95,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 131,
+        "country_id": 95,
+        "language_id": 60,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 132,
+        "country_id": 96,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 133,
+        "country_id": 97,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 134,
+        "country_id": 98,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 135,
+        "country_id": 99,
+        "language_id": 66,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 136,
+        "country_id": 100,
+        "language_id": 67,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 137,
+        "country_id": 101,
+        "language_id": 64,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 138,
+        "country_id": 101,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 139,
+        "country_id": 102,
+        "language_id": 70,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 140,
+        "country_id": 103,
+        "language_id": 127,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 141,
+        "country_id": 104,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 142,
+        "country_id": 104,
+        "language_id": 91,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 143,
+        "country_id": 105,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 144,
+        "country_id": 105,
+        "language_id": 75,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 145,
+        "country_id": 106,
+        "language_id": 62,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 146,
+        "country_id": 107,
+        "language_id": 76,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 147,
+        "country_id": 107,
+        "language_id": 55,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 148,
+        "country_id": 107,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 149,
+        "country_id": 108,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 150,
+        "country_id": 109,
+        "language_id": 77,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 151,
+        "country_id": 110,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 152,
+        "country_id": 111,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 153,
+        "country_id": 112,
+        "language_id": 82,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 154,
+        "country_id": 112,
+        "language_id": 135,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 155,
+        "country_id": 113,
+        "language_id": 151,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 156,
+        "country_id": 113,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 157,
+        "country_id": 114,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 158,
+        "country_id": 248,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 159,
+        "country_id": 248,
+        "language_id": 3,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 160,
+        "country_id": 117,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 161,
+        "country_id": 118,
+        "language_id": 86,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 162,
+        "country_id": 118,
+        "language_id": 135,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 163,
+        "country_id": 119,
+        "language_id": 92,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 164,
+        "country_id": 120,
+        "language_id": 94,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 165,
+        "country_id": 121,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 166,
+        "country_id": 121,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 167,
+        "country_id": 122,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 168,
+        "country_id": 122,
+        "language_id": 148,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 169,
+        "country_id": 123,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 170,
+        "country_id": 124,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 171,
+        "country_id": 125,
+        "language_id": 55,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 172,
+        "country_id": 126,
+        "language_id": 97,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 173,
+        "country_id": 127,
+        "language_id": 99,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 174,
+        "country_id": 127,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 175,
+        "country_id": 127,
+        "language_id": 55,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 176,
+        "country_id": 128,
+        "language_id": 129,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 177,
+        "country_id": 130,
+        "language_id": 101,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 178,
+        "country_id": 130,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 179,
+        "country_id": 131,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 180,
+        "country_id": 131,
+        "language_id": 28,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 181,
+        "country_id": 132,
+        "language_id": 102,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 182,
+        "country_id": 133,
+        "language_id": 38,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 183,
+        "country_id": 134,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 184,
+        "country_id": 135,
+        "language_id": 104,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 185,
+        "country_id": 135,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 186,
+        "country_id": 136,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 187,
+        "country_id": 137,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 188,
+        "country_id": 137,
+        "language_id": 108,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 189,
+        "country_id": 138,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 190,
+        "country_id": 139,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 191,
+        "country_id": 139,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 192,
+        "country_id": 140,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 193,
+        "country_id": 140,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 194,
+        "country_id": 141,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 195,
+        "country_id": 142,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 196,
+        "country_id": 143,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 197,
+        "country_id": 144,
+        "language_id": 132,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 198,
+        "country_id": 144,
+        "language_id": 135,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 199,
+        "country_id": 144,
+        "language_id": 170,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 200,
+        "country_id": 145,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 201,
+        "country_id": 146,
+        "language_id": 109,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 202,
+        "country_id": 147,
+        "language_id": 141,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 203,
+        "country_id": 147,
+        "language_id": 35,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 204,
+        "country_id": 147,
+        "language_id": 21,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 205,
+        "country_id": 147,
+        "language_id": 5,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 206,
+        "country_id": 148,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 207,
+        "country_id": 149,
+        "language_id": 7,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 208,
+        "country_id": 149,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 209,
+        "country_id": 150,
+        "language_id": 129,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 210,
+        "country_id": 151,
+        "language_id": 24,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 211,
+        "country_id": 152,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 212,
+        "country_id": 152,
+        "language_id": 55,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 213,
+        "country_id": 153,
+        "language_id": 110,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 214,
+        "country_id": 153,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 215,
+        "country_id": 154,
+        "language_id": 115,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 216,
+        "country_id": 156,
+        "language_id": 39,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 217,
+        "country_id": 157,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 218,
+        "country_id": 158,
+        "language_id": 106,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 219,
+        "country_id": 158,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 220,
+        "country_id": 159,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 221,
+        "country_id": 160,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 222,
+        "country_id": 161,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 223,
+        "country_id": 162,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 224,
+        "country_id": 163,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 225,
+        "country_id": 115,
+        "language_id": 89,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 226,
+        "country_id": 129,
+        "language_id": 100,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 227,
+        "country_id": 164,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 228,
+        "country_id": 164,
+        "language_id": 26,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 229,
+        "country_id": 165,
+        "language_id": 117,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 230,
+        "country_id": 165,
+        "language_id": 118,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 231,
+        "country_id": 165,
+        "language_id": 116,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 232,
+        "country_id": 165,
+        "language_id": 136,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 233,
+        "country_id": 166,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 234,
+        "country_id": 167,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 235,
+        "country_id": 167,
+        "language_id": 171,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 236,
+        "country_id": 168,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 237,
+        "country_id": 168,
+        "language_id": 77,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 238,
+        "country_id": 169,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 239,
+        "country_id": 169,
+        "language_id": 62,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 240,
+        "country_id": 170,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 241,
+        "country_id": 171,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 242,
+        "country_id": 171,
+        "language_id": 65,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 243,
+        "country_id": 172,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 244,
+        "country_id": 172,
+        "language_id": 58,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 245,
+        "country_id": 173,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 246,
+        "country_id": 174,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 247,
+        "country_id": 174,
+        "language_id": 154,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 248,
+        "country_id": 175,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 249,
+        "country_id": 176,
+        "language_id": 128,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 250,
+        "country_id": 177,
+        "language_id": 129,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 251,
+        "country_id": 178,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 252,
+        "country_id": 178,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 253,
+        "country_id": 179,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 254,
+        "country_id": 180,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 255,
+        "country_id": 181,
+        "language_id": 132,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 256,
+        "country_id": 182,
+        "language_id": 135,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 257,
+        "country_id": 183,
+        "language_id": 85,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 258,
+        "country_id": 183,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 259,
+        "country_id": 183,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 260,
+        "country_id": 184,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 261,
+        "country_id": 185,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 262,
+        "country_id": 186,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 263,
+        "country_id": 187,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 264,
+        "country_id": 188,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 265,
+        "country_id": 189,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 266,
+        "country_id": 190,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 267,
+        "country_id": 191,
+        "language_id": 137,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 268,
+        "country_id": 191,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 269,
+        "country_id": 192,
+        "language_id": 76,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 270,
+        "country_id": 193,
+        "language_id": 129,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 271,
+        "country_id": 194,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 272,
+        "country_id": 195,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 273,
+        "country_id": 196,
+        "language_id": 141,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 274,
+        "country_id": 197,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 275,
+        "country_id": 197,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 276,
+        "country_id": 198,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 277,
+        "country_id": 199,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 278,
+        "country_id": 199,
+        "language_id": 102,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 279,
+        "country_id": 199,
+        "language_id": 157,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 280,
+        "country_id": 250,
+        "language_id": 39,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 281,
+        "country_id": 250,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 282,
+        "country_id": 200,
+        "language_id": 145,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 283,
+        "country_id": 201,
+        "language_id": 146,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 284,
+        "country_id": 202,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 285,
+        "country_id": 203,
+        "language_id": 147,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 286,
+        "country_id": 203,
+        "language_id": 7,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 287,
+        "country_id": 204,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 288,
+        "country_id": 204,
+        "language_id": 3,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 289,
+        "country_id": 204,
+        "language_id": 148,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 290,
+        "country_id": 204,
+        "language_id": 165,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 291,
+        "country_id": 204,
+        "language_id": 179,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 292,
+        "country_id": 204,
+        "language_id": 183,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 293,
+        "country_id": 205,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 294,
+        "country_id": 116,
+        "language_id": 89,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 295,
+        "country_id": 206,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 296,
+        "country_id": 207,
+        "language_id": 25,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 297,
+        "country_id": 207,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 298,
+        "country_id": 207,
+        "language_id": 17,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 299,
+        "country_id": 207,
+        "language_id": 52,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 300,
+        "country_id": 208,
+        "language_id": 144,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 301,
+        "country_id": 208,
+        "language_id": 157,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 302,
+        "country_id": 209,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 303,
+        "country_id": 209,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 304,
+        "country_id": 210,
+        "language_id": 39,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 305,
+        "country_id": 211,
+        "language_id": 116,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 306,
+        "country_id": 212,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 307,
+        "country_id": 212,
+        "language_id": 152,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 308,
+        "country_id": 213,
+        "language_id": 153,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 309,
+        "country_id": 214,
+        "language_id": 55,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 310,
+        "country_id": 214,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 311,
+        "country_id": 214,
+        "language_id": 76,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 312,
+        "country_id": 214,
+        "language_id": 133,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 313,
+        "country_id": 215,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 314,
+        "country_id": 217,
+        "language_id": 156,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 315,
+        "country_id": 217,
+        "language_id": 135,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 316,
+        "country_id": 218,
+        "language_id": 151,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 317,
+        "country_id": 218,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 318,
+        "country_id": 219,
+        "language_id": 160,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 319,
+        "country_id": 17,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 320,
+        "country_id": 220,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 321,
+        "country_id": 221,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 322,
+        "country_id": 221,
+        "language_id": 137,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 323,
+        "country_id": 222,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 324,
+        "country_id": 223,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 325,
+        "country_id": 224,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 326,
+        "country_id": 224,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 327,
+        "country_id": 225,
+        "language_id": 166,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 328,
+        "country_id": 226,
+        "language_id": 167,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 329,
+        "country_id": 227,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 330,
+        "country_id": 228,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 331,
+        "country_id": 229,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 332,
+        "country_id": 229,
+        "language_id": 151,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 333,
+        "country_id": 230,
+        "language_id": 170,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 334,
+        "country_id": 231,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 335,
+        "country_id": 232,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 336,
+        "country_id": 232,
+        "language_id": 75,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 337,
+        "country_id": 232,
+        "language_id": 177,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 338,
+        "country_id": 232,
+        "language_id": 51,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 339,
+        "country_id": 232,
+        "language_id": 32,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 340,
+        "country_id": 233,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 341,
+        "country_id": 234,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 342,
+        "country_id": 235,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 343,
+        "country_id": 236,
+        "language_id": 172,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 344,
+        "country_id": 237,
+        "language_id": 20,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 345,
+        "country_id": 237,
+        "language_id": 41,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 346,
+        "country_id": 237,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 347,
+        "country_id": 238,
+        "language_id": 76,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 348,
+        "country_id": 239,
+        "language_id": 149,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 349,
+        "country_id": 240,
+        "language_id": 174,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 350,
+        "country_id": 241,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 351,
+        "country_id": 242,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 352,
+        "country_id": 243,
+        "language_id": 48,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 353,
+        "country_id": 244,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 354,
+        "country_id": 244,
+        "language_id": 149,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 355,
+        "country_id": 244,
+        "language_id": 48,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 356,
+        "country_id": 245,
+        "language_id": 7,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 357,
+        "country_id": 246,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 358,
+        "country_id": 247,
+        "language_id": 41,
+        "is_official": 1,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 359,
+        "country_id": 247,
+        "language_id": 142,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    },
+    {
+        "id": 360,
+        "country_id": 247,
+        "language_id": 112,
+        "is_official": 0,
+        "created_at": "2023-09-12 00:02:39 +00:00"
+    }
+]

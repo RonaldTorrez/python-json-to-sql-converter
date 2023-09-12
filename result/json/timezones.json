@@ -1,0 +1,3418 @@
+[
+    {
+        "name": "Afghanistan Time",
+        "zone_name": "Asia/Kabul",
+        "tz": "UTC+04:30",
+        "abbreviation": "AFT",
+        "country_id": 1,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Mariehamn",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 2,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Tirane",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 3,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Africa/Algiers",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 4,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Samoa Standard Time",
+        "zone_name": "Pacific/Pago_Pago",
+        "tz": "UTC-11:00",
+        "abbreviation": "SST",
+        "country_id": 5,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Andorra",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 6,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Luanda",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 7,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Anguilla",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 8,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Western Standard Time",
+        "zone_name": "Antarctica/Casey",
+        "tz": "UTC+11:00",
+        "abbreviation": "AWST",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Davis Time",
+        "zone_name": "Antarctica/Davis",
+        "tz": "UTC+07:00",
+        "abbreviation": "DAVT",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Dumont d'Urville Time",
+        "zone_name": "Antarctica/DumontDUrville",
+        "tz": "UTC+10:00",
+        "abbreviation": "DDUT",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mawson Station Time",
+        "zone_name": "Antarctica/Mawson",
+        "tz": "UTC+05:00",
+        "abbreviation": "MAWT",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "New Zealand Daylight Time",
+        "zone_name": "Antarctica/McMurdo",
+        "tz": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Chile Summer Time",
+        "zone_name": "Antarctica/Palmer",
+        "tz": "UTC-03:00",
+        "abbreviation": "CLST",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Rothera Research Station Time",
+        "zone_name": "Antarctica/Rothera",
+        "tz": "UTC-03:00",
+        "abbreviation": "ROTT",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Showa Station Time",
+        "zone_name": "Antarctica/Syowa",
+        "tz": "UTC+03:00",
+        "abbreviation": "SYOT",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Antarctica/Troll",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Vostok Station Time",
+        "zone_name": "Antarctica/Vostok",
+        "tz": "UTC+06:00",
+        "abbreviation": "VOST",
+        "country_id": 9,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Antigua",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 10,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/Buenos_Aires",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/Catamarca",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/Cordoba",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/Jujuy",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/La_Rioja",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/Mendoza",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/Rio_Gallegos",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/Salta",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/San_Juan",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/San_Luis",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/Tucuman",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Argentina Time",
+        "zone_name": "America/Argentina/Ushuaia",
+        "tz": "UTC-03:00",
+        "abbreviation": "ART",
+        "country_id": 11,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Armenia Time",
+        "zone_name": "Asia/Yerevan",
+        "tz": "UTC+04:00",
+        "abbreviation": "AMT",
+        "country_id": 12,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Aruba",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 13,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Macquarie Island Station Time",
+        "zone_name": "Antarctica/Macquarie",
+        "tz": "UTC+11:00",
+        "abbreviation": "MIST",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Central Daylight Saving Time",
+        "zone_name": "Australia/Adelaide",
+        "tz": "UTC+10:30",
+        "abbreviation": "ACDT",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Eastern Standard Time",
+        "zone_name": "Australia/Brisbane",
+        "tz": "UTC+10:00",
+        "abbreviation": "AEST",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Central Daylight Saving Time",
+        "zone_name": "Australia/Broken_Hill",
+        "tz": "UTC+10:30",
+        "abbreviation": "ACDT",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Eastern Daylight Saving Time",
+        "zone_name": "Australia/Currie",
+        "tz": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Central Standard Time",
+        "zone_name": "Australia/Darwin",
+        "tz": "UTC+09:30",
+        "abbreviation": "ACST",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Central Western Standard Time (Unofficial)",
+        "zone_name": "Australia/Eucla",
+        "tz": "UTC+08:45",
+        "abbreviation": "ACWST",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Eastern Daylight Saving Time",
+        "zone_name": "Australia/Hobart",
+        "tz": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Eastern Standard Time",
+        "zone_name": "Australia/Lindeman",
+        "tz": "UTC+10:00",
+        "abbreviation": "AEST",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Lord Howe Summer Time",
+        "zone_name": "Australia/Lord_Howe",
+        "tz": "UTC+11:00",
+        "abbreviation": "LHST",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Eastern Daylight Saving Time",
+        "zone_name": "Australia/Melbourne",
+        "tz": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Western Standard Time",
+        "zone_name": "Australia/Perth",
+        "tz": "UTC+08:00",
+        "abbreviation": "AWST",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Australian Eastern Daylight Saving Time",
+        "zone_name": "Australia/Sydney",
+        "tz": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "country_id": 14,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Vienna",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 15,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Azerbaijan Time",
+        "zone_name": "Asia/Baku",
+        "tz": "UTC+04:00",
+        "abbreviation": "AZT",
+        "country_id": 16,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Arabia Standard Time",
+        "zone_name": "Asia/Bahrain",
+        "tz": "UTC+03:00",
+        "abbreviation": "AST",
+        "country_id": 18,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Bangladesh Standard Time",
+        "zone_name": "Asia/Dhaka",
+        "tz": "UTC+06:00",
+        "abbreviation": "BDT",
+        "country_id": 19,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Barbados",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 20,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Moscow Time",
+        "zone_name": "Europe/Minsk",
+        "tz": "UTC+03:00",
+        "abbreviation": "MSK",
+        "country_id": 21,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Brussels",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 22,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America)",
+        "zone_name": "America/Belize",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 23,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Porto-Novo",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 24,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "Atlantic/Bermuda",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 25,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Bhutan Time",
+        "zone_name": "Asia/Thimphu",
+        "tz": "UTC+06:00",
+        "abbreviation": "BTT",
+        "country_id": 26,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Bolivia Time",
+        "zone_name": "America/La_Paz",
+        "tz": "UTC-04:00",
+        "abbreviation": "BOT",
+        "country_id": 27,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Anguilla",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 155,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Sarajevo",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 28,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Africa Time",
+        "zone_name": "Africa/Gaborone",
+        "tz": "UTC+02:00",
+        "abbreviation": "CAT",
+        "country_id": 29,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Oslo",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 30,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brasília Time",
+        "zone_name": "America/Araguaina",
+        "tz": "UTC-03:00",
+        "abbreviation": "BRT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brasília Time",
+        "zone_name": "America/Bahia",
+        "tz": "UTC-03:00",
+        "abbreviation": "BRT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brasília Time",
+        "zone_name": "America/Belem",
+        "tz": "UTC-03:00",
+        "abbreviation": "BRT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Amazon Time (Brazil)[3",
+        "zone_name": "America/Boa_Vista",
+        "tz": "UTC-04:00",
+        "abbreviation": "AMT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Amazon Time (Brazil)[3",
+        "zone_name": "America/Campo_Grande",
+        "tz": "UTC-04:00",
+        "abbreviation": "AMT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brasilia Time",
+        "zone_name": "America/Cuiaba",
+        "tz": "UTC-04:00",
+        "abbreviation": "BRT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Acre Time",
+        "zone_name": "America/Eirunepe",
+        "tz": "UTC-05:00",
+        "abbreviation": "ACT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brasília Time",
+        "zone_name": "America/Fortaleza",
+        "tz": "UTC-03:00",
+        "abbreviation": "BRT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brasília Time",
+        "zone_name": "America/Maceio",
+        "tz": "UTC-03:00",
+        "abbreviation": "BRT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Amazon Time (Brazil)",
+        "zone_name": "America/Manaus",
+        "tz": "UTC-04:00",
+        "abbreviation": "AMT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Fernando de Noronha Time",
+        "zone_name": "America/Noronha",
+        "tz": "UTC-02:00",
+        "abbreviation": "FNT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Amazon Time (Brazil)[3",
+        "zone_name": "America/Porto_Velho",
+        "tz": "UTC-04:00",
+        "abbreviation": "AMT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brasília Time",
+        "zone_name": "America/Recife",
+        "tz": "UTC-03:00",
+        "abbreviation": "BRT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Acre Time",
+        "zone_name": "America/Rio_Branco",
+        "tz": "UTC-05:00",
+        "abbreviation": "ACT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brasília Time",
+        "zone_name": "America/Santarem",
+        "tz": "UTC-03:00",
+        "abbreviation": "BRT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brasília Time",
+        "zone_name": "America/Sao_Paulo",
+        "tz": "UTC-03:00",
+        "abbreviation": "BRT",
+        "country_id": 31,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Indian Ocean Time",
+        "zone_name": "Indian/Chagos",
+        "tz": "UTC+06:00",
+        "abbreviation": "IOT",
+        "country_id": 32,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Brunei Darussalam Time",
+        "zone_name": "Asia/Brunei",
+        "tz": "UTC+08:00",
+        "abbreviation": "BNT",
+        "country_id": 33,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Sofia",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 34,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Ouagadougou",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 35,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Africa Time",
+        "zone_name": "Africa/Bujumbura",
+        "tz": "UTC+02:00",
+        "abbreviation": "CAT",
+        "country_id": 36,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Indochina Time",
+        "zone_name": "Asia/Phnom_Penh",
+        "tz": "UTC+07:00",
+        "abbreviation": "ICT",
+        "country_id": 37,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Douala",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 38,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America)",
+        "zone_name": "America/Atikokan",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Blanc-Sablon",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America)",
+        "zone_name": "America/Cambridge_Bay",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America)",
+        "zone_name": "America/Creston",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America)",
+        "zone_name": "America/Dawson",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America)",
+        "zone_name": "America/Dawson_Creek",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America)",
+        "zone_name": "America/Edmonton",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America)",
+        "zone_name": "America/Fort_Nelson",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Glace_Bay",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Goose_Bay",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Halifax",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Inuvik",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Iqaluit",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Moncton",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Nipigon",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Pangnirtung",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Rainy_River",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Rankin_Inlet",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Regina",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Resolute",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Newfoundland Standard Time",
+        "zone_name": "America/St_Johns",
+        "tz": "UTC-03:30",
+        "abbreviation": "NST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Swift_Current",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Thunder_Bay",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Toronto",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Pacific Standard Time (North America",
+        "zone_name": "America/Vancouver",
+        "tz": "UTC-08:00",
+        "abbreviation": "PST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Whitehorse",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Winnipeg",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Yellowknife",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 39,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Cape Verde Time",
+        "zone_name": "Atlantic/Cape_Verde",
+        "tz": "UTC-01:00",
+        "abbreviation": "CVT",
+        "country_id": 40,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Cayman",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 41,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Bangui",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 42,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Ndjamena",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 43,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Chile Summer Time",
+        "zone_name": "America/Punta_Arenas",
+        "tz": "UTC-03:00",
+        "abbreviation": "CLST",
+        "country_id": 44,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Chile Summer Time",
+        "zone_name": "America/Santiago",
+        "tz": "UTC-03:00",
+        "abbreviation": "CLST",
+        "country_id": 44,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Easter Island Summer Time",
+        "zone_name": "Pacific/Easter",
+        "tz": "UTC-05:00",
+        "abbreviation": "EASST",
+        "country_id": 44,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "China Standard Time",
+        "zone_name": "Asia/Shanghai",
+        "tz": "UTC+08:00",
+        "abbreviation": "CST",
+        "country_id": 45,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "China Standard Time",
+        "zone_name": "Asia/Urumqi",
+        "tz": "UTC+06:00",
+        "abbreviation": "XJT",
+        "country_id": 45,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Christmas Island Time",
+        "zone_name": "Indian/Christmas",
+        "tz": "UTC+07:00",
+        "abbreviation": "CXT",
+        "country_id": 46,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Cocos Islands Time",
+        "zone_name": "Indian/Cocos",
+        "tz": "UTC+06:30",
+        "abbreviation": "CCT",
+        "country_id": 47,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Colombia Time",
+        "zone_name": "America/Bogota",
+        "tz": "UTC-05:00",
+        "abbreviation": "COT",
+        "country_id": 48,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Indian/Comoro",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 49,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Brazzaville",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 50,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Cook Island Time",
+        "zone_name": "Pacific/Rarotonga",
+        "tz": "UTC-10:00",
+        "abbreviation": "CKT",
+        "country_id": 52,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Costa_Rica",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 53,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Abidjan",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 54,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Zagreb",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 55,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Cuba Standard Time",
+        "zone_name": "America/Havana",
+        "tz": "UTC-05:00",
+        "abbreviation": "CST",
+        "country_id": 56,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Curacao",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 249,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Asia/Famagusta",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 57,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Asia/Nicosia",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 57,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Kinshasa",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 51,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Africa Time",
+        "zone_name": "Africa/Lubumbashi",
+        "tz": "UTC+02:00",
+        "abbreviation": "CAT",
+        "country_id": 51,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Copenhagen",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 59,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Africa/Djibouti",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 60,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Dominica",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 61,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Santo_Domingo",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 62,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Timor Leste Time",
+        "zone_name": "Asia/Dili",
+        "tz": "UTC+09:00",
+        "abbreviation": "TLT",
+        "country_id": 63,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Ecuador Time",
+        "zone_name": "America/Guayaquil",
+        "tz": "UTC-05:00",
+        "abbreviation": "ECT",
+        "country_id": 64,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Galápagos Time",
+        "zone_name": "Pacific/Galapagos",
+        "tz": "UTC-06:00",
+        "abbreviation": "GALT",
+        "country_id": 64,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Africa/Cairo",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 65,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/El_Salvador",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 66,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Malabo",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 67,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Africa/Asmara",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 68,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Tallinn",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 69,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Africa/Addis_Ababa",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 70,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Falkland Islands Summer Time",
+        "zone_name": "Atlantic/Stanley",
+        "tz": "UTC-03:00",
+        "abbreviation": "FKST",
+        "country_id": 71,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Western European Time",
+        "zone_name": "Atlantic/Faroe",
+        "tz": "UTC±00",
+        "abbreviation": "WET",
+        "country_id": 72,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Fiji Time",
+        "zone_name": "Pacific/Fiji",
+        "tz": "UTC+12:00",
+        "abbreviation": "FJT",
+        "country_id": 73,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Helsinki",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 74,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Paris",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 75,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "French Guiana Time",
+        "zone_name": "America/Cayenne",
+        "tz": "UTC-03:00",
+        "abbreviation": "GFT",
+        "country_id": 76,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Gambier Islands Time",
+        "zone_name": "Pacific/Gambier",
+        "tz": "UTC-09:00",
+        "abbreviation": "GAMT",
+        "country_id": 77,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Marquesas Islands Time",
+        "zone_name": "Pacific/Marquesas",
+        "tz": "UTC-09:30",
+        "abbreviation": "MART",
+        "country_id": 77,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Tahiti Time",
+        "zone_name": "Pacific/Tahiti",
+        "tz": "UTC-10:00",
+        "abbreviation": "TAHT",
+        "country_id": 77,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "French Southern and Antarctic Time",
+        "zone_name": "Indian/Kerguelen",
+        "tz": "UTC+05:00",
+        "abbreviation": "TFT",
+        "country_id": 78,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Libreville",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 79,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Banjul",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 80,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Georgia Standard Time",
+        "zone_name": "Asia/Tbilisi",
+        "tz": "UTC+04:00",
+        "abbreviation": "GET",
+        "country_id": 81,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Berlin",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 82,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Busingen",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 82,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Accra",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 83,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Gibraltar",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 84,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Athens",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 85,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "America/Danmarkshavn",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 86,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Greenland Time",
+        "zone_name": "America/Nuuk",
+        "tz": "UTC-03:00",
+        "abbreviation": "WGT",
+        "country_id": 86,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Greenland Time",
+        "zone_name": "America/Scoresbysund",
+        "tz": "UTC-01:00",
+        "abbreviation": "EGT",
+        "country_id": 86,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Thule",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 86,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Grenada",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 87,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Guadeloupe",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 88,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Chamorro Standard Time",
+        "zone_name": "Pacific/Guam",
+        "tz": "UTC+10:00",
+        "abbreviation": "CHST",
+        "country_id": 89,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Guatemala",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 90,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Europe/Guernsey",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 91,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Conakry",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 92,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Bissau",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 93,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Guyana Time",
+        "zone_name": "America/Guyana",
+        "tz": "UTC-04:00",
+        "abbreviation": "GYT",
+        "country_id": 94,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Port-au-Prince",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 95,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "French Southern and Antarctic Time",
+        "zone_name": "Indian/Kerguelen",
+        "tz": "UTC+05:00",
+        "abbreviation": "TFT",
+        "country_id": 96,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Tegucigalpa",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 97,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Hong Kong Time",
+        "zone_name": "Asia/Hong_Kong",
+        "tz": "UTC+08:00",
+        "abbreviation": "HKT",
+        "country_id": 98,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Budapest",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 99,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Atlantic/Reykjavik",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 100,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Indian Standard Time",
+        "zone_name": "Asia/Kolkata",
+        "tz": "UTC+05:30",
+        "abbreviation": "IST",
+        "country_id": 101,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Western Indonesian Time",
+        "zone_name": "Asia/Jakarta",
+        "tz": "UTC+07:00",
+        "abbreviation": "WIB",
+        "country_id": 102,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Indonesian Time",
+        "zone_name": "Asia/Jayapura",
+        "tz": "UTC+09:00",
+        "abbreviation": "WIT",
+        "country_id": 102,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Indonesia Time",
+        "zone_name": "Asia/Makassar",
+        "tz": "UTC+08:00",
+        "abbreviation": "WITA",
+        "country_id": 102,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Western Indonesian Time",
+        "zone_name": "Asia/Pontianak",
+        "tz": "UTC+07:00",
+        "abbreviation": "WIB",
+        "country_id": 102,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Iran Daylight Time",
+        "zone_name": "Asia/Tehran",
+        "tz": "UTC+03:30",
+        "abbreviation": "IRDT",
+        "country_id": 103,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Arabia Standard Time",
+        "zone_name": "Asia/Baghdad",
+        "tz": "UTC+03:00",
+        "abbreviation": "AST",
+        "country_id": 104,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Europe/Dublin",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 105,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Israel Standard Time",
+        "zone_name": "Asia/Jerusalem",
+        "tz": "UTC+02:00",
+        "abbreviation": "IST",
+        "country_id": 106,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Rome",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 107,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Jamaica",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 108,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Japan Standard Time",
+        "zone_name": "Asia/Tokyo",
+        "tz": "UTC+09:00",
+        "abbreviation": "JST",
+        "country_id": 109,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Europe/Jersey",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 110,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Asia/Amman",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 111,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Alma-Ata Time[1",
+        "zone_name": "Asia/Almaty",
+        "tz": "UTC+06:00",
+        "abbreviation": "ALMT",
+        "country_id": 112,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Aqtobe Time",
+        "zone_name": "Asia/Aqtau",
+        "tz": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "country_id": 112,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Aqtobe Time",
+        "zone_name": "Asia/Aqtobe",
+        "tz": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "country_id": 112,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Moscow Daylight Time+1",
+        "zone_name": "Asia/Atyrau",
+        "tz": "UTC+05:00",
+        "abbreviation": "MSD+1",
+        "country_id": 112,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Oral Time",
+        "zone_name": "Asia/Oral",
+        "tz": "UTC+05:00",
+        "abbreviation": "ORAT",
+        "country_id": 112,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Qyzylorda Summer Time",
+        "zone_name": "Asia/Qostanay",
+        "tz": "UTC+06:00",
+        "abbreviation": "QYZST",
+        "country_id": 112,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Qyzylorda Summer Time",
+        "zone_name": "Asia/Qyzylorda",
+        "tz": "UTC+05:00",
+        "abbreviation": "QYZT",
+        "country_id": 112,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Africa/Nairobi",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 113,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Phoenix Island Time",
+        "zone_name": "Pacific/Enderbury",
+        "tz": "UTC+13:00",
+        "abbreviation": "PHOT",
+        "country_id": 114,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Line Islands Time",
+        "zone_name": "Pacific/Kiritimati",
+        "tz": "UTC+14:00",
+        "abbreviation": "LINT",
+        "country_id": 114,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Gilbert Island Time",
+        "zone_name": "Pacific/Tarawa",
+        "tz": "UTC+12:00",
+        "abbreviation": "GILT",
+        "country_id": 114,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Belgrade",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 248,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Arabia Standard Time",
+        "zone_name": "Asia/Kuwait",
+        "tz": "UTC+03:00",
+        "abbreviation": "AST",
+        "country_id": 117,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Kyrgyzstan Time",
+        "zone_name": "Asia/Bishkek",
+        "tz": "UTC+06:00",
+        "abbreviation": "KGT",
+        "country_id": 118,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Indochina Time",
+        "zone_name": "Asia/Vientiane",
+        "tz": "UTC+07:00",
+        "abbreviation": "ICT",
+        "country_id": 119,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Riga",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 120,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Asia/Beirut",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 121,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "South African Standard Time",
+        "zone_name": "Africa/Maseru",
+        "tz": "UTC+02:00",
+        "abbreviation": "SAST",
+        "country_id": 122,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Monrovia",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 123,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Africa/Tripoli",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 124,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Vaduz",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 125,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Vilnius",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 126,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Luxembourg",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 127,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "China Standard Time",
+        "zone_name": "Asia/Macau",
+        "tz": "UTC+08:00",
+        "abbreviation": "CST",
+        "country_id": 128,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Indian/Antananarivo",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 130,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Africa Time",
+        "zone_name": "Africa/Blantyre",
+        "tz": "UTC+02:00",
+        "abbreviation": "CAT",
+        "country_id": 131,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Malaysia Time",
+        "zone_name": "Asia/Kuala_Lumpur",
+        "tz": "UTC+08:00",
+        "abbreviation": "MYT",
+        "country_id": 132,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Malaysia Time",
+        "zone_name": "Asia/Kuching",
+        "tz": "UTC+08:00",
+        "abbreviation": "MYT",
+        "country_id": 132,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Maldives Time",
+        "zone_name": "Indian/Maldives",
+        "tz": "UTC+05:00",
+        "abbreviation": "MVT",
+        "country_id": 133,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Bamako",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 134,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Malta",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 135,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Europe/Isle_of_Man",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 136,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Marshall Islands Time",
+        "zone_name": "Pacific/Kwajalein",
+        "tz": "UTC+12:00",
+        "abbreviation": "MHT",
+        "country_id": 137,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Marshall Islands Time",
+        "zone_name": "Pacific/Majuro",
+        "tz": "UTC+12:00",
+        "abbreviation": "MHT",
+        "country_id": 137,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Martinique",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 138,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Nouakchott",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 139,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mauritius Time",
+        "zone_name": "Indian/Mauritius",
+        "tz": "UTC+04:00",
+        "abbreviation": "MUT",
+        "country_id": 140,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Indian/Mayotte",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 141,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Bahia_Banderas",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Cancun",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Chihuahua",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Hermosillo",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Matamoros",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Mazatlan",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Merida",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Mexico_City",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Monterrey",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Ojinaga",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Pacific Standard Time (North America",
+        "zone_name": "America/Tijuana",
+        "tz": "UTC-08:00",
+        "abbreviation": "PST",
+        "country_id": 142,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Chuuk Time",
+        "zone_name": "Pacific/Chuuk",
+        "tz": "UTC+10:00",
+        "abbreviation": "CHUT",
+        "country_id": 143,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Kosrae Time",
+        "zone_name": "Pacific/Kosrae",
+        "tz": "UTC+11:00",
+        "abbreviation": "KOST",
+        "country_id": 143,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Pohnpei Standard Time",
+        "zone_name": "Pacific/Pohnpei",
+        "tz": "UTC+11:00",
+        "abbreviation": "PONT",
+        "country_id": 143,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Chisinau",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 144,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Monaco",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 145,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Choibalsan Standard Time",
+        "zone_name": "Asia/Choibalsan",
+        "tz": "UTC+08:00",
+        "abbreviation": "CHOT",
+        "country_id": 146,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Hovd Time",
+        "zone_name": "Asia/Hovd",
+        "tz": "UTC+07:00",
+        "abbreviation": "HOVT",
+        "country_id": 146,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Ulaanbaatar Standard Time",
+        "zone_name": "Asia/Ulaanbaatar",
+        "tz": "UTC+08:00",
+        "abbreviation": "ULAT",
+        "country_id": 146,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Podgorica",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 147,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Montserrat",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 148,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Western European Summer Time",
+        "zone_name": "Africa/Casablanca",
+        "tz": "UTC+01:00",
+        "abbreviation": "WEST",
+        "country_id": 149,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Africa Time",
+        "zone_name": "Africa/Maputo",
+        "tz": "UTC+02:00",
+        "abbreviation": "CAT",
+        "country_id": 150,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Myanmar Standard Time",
+        "zone_name": "Asia/Yangon",
+        "tz": "UTC+06:30",
+        "abbreviation": "MMT",
+        "country_id": 151,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Summer Time",
+        "zone_name": "Africa/Windhoek",
+        "tz": "UTC+02:00",
+        "abbreviation": "WAST",
+        "country_id": 152,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Nauru Time",
+        "zone_name": "Pacific/Nauru",
+        "tz": "UTC+12:00",
+        "abbreviation": "NRT",
+        "country_id": 153,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Nepal Time",
+        "zone_name": "Asia/Kathmandu",
+        "tz": "UTC+05:45",
+        "abbreviation": "NPT",
+        "country_id": 154,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Amsterdam",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 156,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "New Caledonia Time",
+        "zone_name": "Pacific/Noumea",
+        "tz": "UTC+11:00",
+        "abbreviation": "NCT",
+        "country_id": 157,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "New Zealand Daylight Time",
+        "zone_name": "Pacific/Auckland",
+        "tz": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "country_id": 158,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Chatham Standard Time",
+        "zone_name": "Pacific/Chatham",
+        "tz": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "country_id": 158,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Managua",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 159,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Niamey",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 160,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Africa Time",
+        "zone_name": "Africa/Lagos",
+        "tz": "UTC+01:00",
+        "abbreviation": "WAT",
+        "country_id": 161,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Niue Time",
+        "zone_name": "Pacific/Niue",
+        "tz": "UTC-11:00",
+        "abbreviation": "NUT",
+        "country_id": 162,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Norfolk Time",
+        "zone_name": "Pacific/Norfolk",
+        "tz": "UTC+12:00",
+        "abbreviation": "NFT",
+        "country_id": 163,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Korea Standard Time",
+        "zone_name": "Asia/Pyongyang",
+        "tz": "UTC+09:00",
+        "abbreviation": "KST",
+        "country_id": 115,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Skopje",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 129,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Chamorro Standard Time",
+        "zone_name": "Pacific/Saipan",
+        "tz": "UTC+10:00",
+        "abbreviation": "ChST",
+        "country_id": 164,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Oslo",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 165,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Gulf Standard Time",
+        "zone_name": "Asia/Muscat",
+        "tz": "UTC+04:00",
+        "abbreviation": "GST",
+        "country_id": 166,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Pakistan Standard Time",
+        "zone_name": "Asia/Karachi",
+        "tz": "UTC+05:00",
+        "abbreviation": "PKT",
+        "country_id": 167,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Palau Time",
+        "zone_name": "Pacific/Palau",
+        "tz": "UTC+09:00",
+        "abbreviation": "PWT",
+        "country_id": 168,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Asia/Gaza",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 169,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Asia/Hebron",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 169,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Panama",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 170,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Bougainville Standard Time[6",
+        "zone_name": "Pacific/Bougainville",
+        "tz": "UTC+11:00",
+        "abbreviation": "BST",
+        "country_id": 171,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Papua New Guinea Time",
+        "zone_name": "Pacific/Port_Moresby",
+        "tz": "UTC+10:00",
+        "abbreviation": "PGT",
+        "country_id": 171,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Paraguay Summer Time",
+        "zone_name": "America/Asuncion",
+        "tz": "UTC-03:00",
+        "abbreviation": "PYST",
+        "country_id": 172,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Peru Time",
+        "zone_name": "America/Lima",
+        "tz": "UTC-05:00",
+        "abbreviation": "PET",
+        "country_id": 173,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Philippine Time",
+        "zone_name": "Asia/Manila",
+        "tz": "UTC+08:00",
+        "abbreviation": "PHT",
+        "country_id": 174,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Pacific Standard Time (North America",
+        "zone_name": "Pacific/Pitcairn",
+        "tz": "UTC-08:00",
+        "abbreviation": "PST",
+        "country_id": 175,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Warsaw",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 176,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Azores Standard Time",
+        "zone_name": "Atlantic/Azores",
+        "tz": "UTC-01:00",
+        "abbreviation": "AZOT",
+        "country_id": 177,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Western European Time",
+        "zone_name": "Atlantic/Madeira",
+        "tz": "UTC±00",
+        "abbreviation": "WET",
+        "country_id": 177,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Western European Time",
+        "zone_name": "Europe/Lisbon",
+        "tz": "UTC±00",
+        "abbreviation": "WET",
+        "country_id": 177,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Puerto_Rico",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 178,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Arabia Standard Time",
+        "zone_name": "Asia/Qatar",
+        "tz": "UTC+03:00",
+        "abbreviation": "AST",
+        "country_id": 179,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Réunion Time",
+        "zone_name": "Indian/Reunion",
+        "tz": "UTC+04:00",
+        "abbreviation": "RET",
+        "country_id": 180,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Bucharest",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 181,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Anadyr Time[4",
+        "zone_name": "Asia/Anadyr",
+        "tz": "UTC+12:00",
+        "abbreviation": "ANAT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Krasnoyarsk Time",
+        "zone_name": "Asia/Barnaul",
+        "tz": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Yakutsk Time",
+        "zone_name": "Asia/Chita",
+        "tz": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Irkutsk Time",
+        "zone_name": "Asia/Irkutsk",
+        "tz": "UTC+08:00",
+        "abbreviation": "IRKT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Kamchatka Time",
+        "zone_name": "Asia/Kamchatka",
+        "tz": "UTC+12:00",
+        "abbreviation": "PETT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Yakutsk Time",
+        "zone_name": "Asia/Khandyga",
+        "tz": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Krasnoyarsk Time",
+        "zone_name": "Asia/Krasnoyarsk",
+        "tz": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Magadan Time",
+        "zone_name": "Asia/Magadan",
+        "tz": "UTC+11:00",
+        "abbreviation": "MAGT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Krasnoyarsk Time",
+        "zone_name": "Asia/Novokuznetsk",
+        "tz": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Novosibirsk Time",
+        "zone_name": "Asia/Novosibirsk",
+        "tz": "UTC+07:00",
+        "abbreviation": "NOVT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Omsk Time",
+        "zone_name": "Asia/Omsk",
+        "tz": "UTC+06:00",
+        "abbreviation": "OMST",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Sakhalin Island Time",
+        "zone_name": "Asia/Sakhalin",
+        "tz": "UTC+11:00",
+        "abbreviation": "SAKT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Srednekolymsk Time",
+        "zone_name": "Asia/Srednekolymsk",
+        "tz": "UTC+11:00",
+        "abbreviation": "SRET",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Moscow Daylight Time+3",
+        "zone_name": "Asia/Tomsk",
+        "tz": "UTC+07:00",
+        "abbreviation": "MSD+3",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Vladivostok Time",
+        "zone_name": "Asia/Ust-Nera",
+        "tz": "UTC+10:00",
+        "abbreviation": "VLAT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Vladivostok Time",
+        "zone_name": "Asia/Vladivostok",
+        "tz": "UTC+10:00",
+        "abbreviation": "VLAT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Yakutsk Time",
+        "zone_name": "Asia/Yakutsk",
+        "tz": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Yekaterinburg Time",
+        "zone_name": "Asia/Yekaterinburg",
+        "tz": "UTC+05:00",
+        "abbreviation": "YEKT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Samara Time",
+        "zone_name": "Europe/Astrakhan",
+        "tz": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Kaliningrad",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Moscow Time",
+        "zone_name": "Europe/Kirov",
+        "tz": "UTC+03:00",
+        "abbreviation": "MSK",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Moscow Time",
+        "zone_name": "Europe/Moscow",
+        "tz": "UTC+03:00",
+        "abbreviation": "MSK",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Samara Time",
+        "zone_name": "Europe/Samara",
+        "tz": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Moscow Daylight Time+4",
+        "zone_name": "Europe/Saratov",
+        "tz": "UTC+04:00",
+        "abbreviation": "MSD",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Samara Time",
+        "zone_name": "Europe/Ulyanovsk",
+        "tz": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Moscow Standard Time",
+        "zone_name": "Europe/Volgograd",
+        "tz": "UTC+04:00",
+        "abbreviation": "MSK",
+        "country_id": 182,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Africa Time",
+        "zone_name": "Africa/Kigali",
+        "tz": "UTC+02:00",
+        "abbreviation": "CAT",
+        "country_id": 183,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Atlantic/St_Helena",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 184,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/St_Kitts",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 185,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/St_Lucia",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 186,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Pierre & Miquelon Daylight Time",
+        "zone_name": "America/Miquelon",
+        "tz": "UTC-03:00",
+        "abbreviation": "PMDT",
+        "country_id": 187,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/St_Vincent",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 188,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/St_Barthelemy",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 189,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Marigot",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 190,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "West Samoa Time",
+        "zone_name": "Pacific/Apia",
+        "tz": "UTC+14:00",
+        "abbreviation": "WST",
+        "country_id": 191,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/San_Marino",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 192,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Sao_Tome",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 193,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Arabia Standard Time",
+        "zone_name": "Asia/Riyadh",
+        "tz": "UTC+03:00",
+        "abbreviation": "AST",
+        "country_id": 194,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Dakar",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 195,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Belgrade",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 196,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Seychelles Time",
+        "zone_name": "Indian/Mahe",
+        "tz": "UTC+04:00",
+        "abbreviation": "SCT",
+        "country_id": 197,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Freetown",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 198,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Singapore Time",
+        "zone_name": "Asia/Singapore",
+        "tz": "UTC+08:00",
+        "abbreviation": "SGT",
+        "country_id": 199,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Anguilla",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 250,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Bratislava",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 200,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Ljubljana",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 201,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Solomon Islands Time",
+        "zone_name": "Pacific/Guadalcanal",
+        "tz": "UTC+11:00",
+        "abbreviation": "SBT",
+        "country_id": 202,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Africa/Mogadishu",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 203,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "South African Standard Time",
+        "zone_name": "Africa/Johannesburg",
+        "tz": "UTC+02:00",
+        "abbreviation": "SAST",
+        "country_id": 204,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands Time",
+        "zone_name": "Atlantic/South_Georgia",
+        "tz": "UTC-02:00",
+        "abbreviation": "GST",
+        "country_id": 205,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Korea Standard Time",
+        "zone_name": "Asia/Seoul",
+        "tz": "UTC+09:00",
+        "abbreviation": "KST",
+        "country_id": 116,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Africa/Juba",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 206,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Africa/Ceuta",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 207,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Western European Time",
+        "zone_name": "Atlantic/Canary",
+        "tz": "UTC±00",
+        "abbreviation": "WET",
+        "country_id": 207,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Madrid",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 207,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Indian Standard Time",
+        "zone_name": "Asia/Colombo",
+        "tz": "UTC+05:30",
+        "abbreviation": "IST",
+        "country_id": 208,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern African Time",
+        "zone_name": "Africa/Khartoum",
+        "tz": "UTC+02:00",
+        "abbreviation": "EAT",
+        "country_id": 209,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Suriname Time",
+        "zone_name": "America/Paramaribo",
+        "tz": "UTC-03:00",
+        "abbreviation": "SRT",
+        "country_id": 210,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Arctic/Longyearbyen",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 211,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "South African Standard Time",
+        "zone_name": "Africa/Mbabane",
+        "tz": "UTC+02:00",
+        "abbreviation": "SAST",
+        "country_id": 212,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Stockholm",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 213,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Zurich",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 214,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Asia/Damascus",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 215,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "China Standard Time",
+        "zone_name": "Asia/Taipei",
+        "tz": "UTC+08:00",
+        "abbreviation": "CST",
+        "country_id": 216,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Tajikistan Time",
+        "zone_name": "Asia/Dushanbe",
+        "tz": "UTC+05:00",
+        "abbreviation": "TJT",
+        "country_id": 217,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Africa/Dar_es_Salaam",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 218,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Indochina Time",
+        "zone_name": "Asia/Bangkok",
+        "tz": "UTC+07:00",
+        "abbreviation": "ICT",
+        "country_id": 219,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America)",
+        "zone_name": "America/Nassau",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 17,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Africa/Lome",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 220,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Tokelau Time",
+        "zone_name": "Pacific/Fakaofo",
+        "tz": "UTC+13:00",
+        "abbreviation": "TKT",
+        "country_id": 221,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Tonga Time",
+        "zone_name": "Pacific/Tongatapu",
+        "tz": "UTC+13:00",
+        "abbreviation": "TOT",
+        "country_id": 222,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Port_of_Spain",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 223,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Africa/Tunis",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 224,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Istanbul",
+        "tz": "UTC+03:00",
+        "abbreviation": "EET",
+        "country_id": 225,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Turkmenistan Time",
+        "zone_name": "Asia/Ashgabat",
+        "tz": "UTC+05:00",
+        "abbreviation": "TMT",
+        "country_id": 226,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Grand_Turk",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 227,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Tuvalu Time",
+        "zone_name": "Pacific/Funafuti",
+        "tz": "UTC+12:00",
+        "abbreviation": "TVT",
+        "country_id": 228,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "East Africa Time",
+        "zone_name": "Africa/Kampala",
+        "tz": "UTC+03:00",
+        "abbreviation": "EAT",
+        "country_id": 229,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Kiev",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 230,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Moscow Time",
+        "zone_name": "Europe/Simferopol",
+        "tz": "UTC+03:00",
+        "abbreviation": "MSK",
+        "country_id": 230,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Uzhgorod",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 230,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern European Time",
+        "zone_name": "Europe/Zaporozhye",
+        "tz": "UTC+02:00",
+        "abbreviation": "EET",
+        "country_id": 230,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Gulf Standard Time",
+        "zone_name": "Asia/Dubai",
+        "tz": "UTC+04:00",
+        "abbreviation": "GST",
+        "country_id": 231,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Greenwich Mean Time",
+        "zone_name": "Europe/London",
+        "tz": "UTC±00",
+        "abbreviation": "GMT",
+        "country_id": 232,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Hawaii–Aleutian Standard Time",
+        "zone_name": "America/Adak",
+        "tz": "UTC-10:00",
+        "abbreviation": "HST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Alaska Standard Time",
+        "zone_name": "America/Anchorage",
+        "tz": "UTC-09:00",
+        "abbreviation": "AKST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Boise",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Chicago",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Denver",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Detroit",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Indiana/Indianapolis",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Indiana/Knox",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Indiana/Marengo",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Indiana/Petersburg",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Indiana/Tell_City",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Indiana/Vevay",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Indiana/Vincennes",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Indiana/Winamac",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Alaska Standard Time",
+        "zone_name": "America/Juneau",
+        "tz": "UTC-09:00",
+        "abbreviation": "AKST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Kentucky/Louisville",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/Kentucky/Monticello",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Pacific Standard Time (North America",
+        "zone_name": "America/Los_Angeles",
+        "tz": "UTC-08:00",
+        "abbreviation": "PST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/Menominee",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Alaska Standard Time",
+        "zone_name": "America/Metlakatla",
+        "tz": "UTC-09:00",
+        "abbreviation": "AKST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Eastern Standard Time (North America",
+        "zone_name": "America/New_York",
+        "tz": "UTC-05:00",
+        "abbreviation": "EST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Alaska Standard Time",
+        "zone_name": "America/Nome",
+        "tz": "UTC-09:00",
+        "abbreviation": "AKST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/North_Dakota/Beulah",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/North_Dakota/Center",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Standard Time (North America",
+        "zone_name": "America/North_Dakota/New_Salem",
+        "tz": "UTC-06:00",
+        "abbreviation": "CST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Mountain Standard Time (North America",
+        "zone_name": "America/Phoenix",
+        "tz": "UTC-07:00",
+        "abbreviation": "MST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Alaska Standard Time",
+        "zone_name": "America/Sitka",
+        "tz": "UTC-09:00",
+        "abbreviation": "AKST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Alaska Standard Time",
+        "zone_name": "America/Yakutat",
+        "tz": "UTC-09:00",
+        "abbreviation": "AKST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Hawaii–Aleutian Standard Time",
+        "zone_name": "Pacific/Honolulu",
+        "tz": "UTC-10:00",
+        "abbreviation": "HST",
+        "country_id": 233,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Samoa Standard Time",
+        "zone_name": "Pacific/Midway",
+        "tz": "UTC-11:00",
+        "abbreviation": "SST",
+        "country_id": 234,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Wake Island Time",
+        "zone_name": "Pacific/Wake",
+        "tz": "UTC+12:00",
+        "abbreviation": "WAKT",
+        "country_id": 234,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Uruguay Standard Time",
+        "zone_name": "America/Montevideo",
+        "tz": "UTC-03:00",
+        "abbreviation": "UYT",
+        "country_id": 235,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Uzbekistan Time",
+        "zone_name": "Asia/Samarkand",
+        "tz": "UTC+05:00",
+        "abbreviation": "UZT",
+        "country_id": 236,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Uzbekistan Time",
+        "zone_name": "Asia/Tashkent",
+        "tz": "UTC+05:00",
+        "abbreviation": "UZT",
+        "country_id": 236,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Vanuatu Time",
+        "zone_name": "Pacific/Efate",
+        "tz": "UTC+11:00",
+        "abbreviation": "VUT",
+        "country_id": 237,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central European Time",
+        "zone_name": "Europe/Vatican",
+        "tz": "UTC+01:00",
+        "abbreviation": "CET",
+        "country_id": 238,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Venezuelan Standard Time",
+        "zone_name": "America/Caracas",
+        "tz": "UTC-04:00",
+        "abbreviation": "VET",
+        "country_id": 239,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Indochina Time",
+        "zone_name": "Asia/Ho_Chi_Minh",
+        "tz": "UTC+07:00",
+        "abbreviation": "ICT",
+        "country_id": 240,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/Tortola",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 241,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "zone_name": "America/St_Thomas",
+        "tz": "UTC-04:00",
+        "abbreviation": "AST",
+        "country_id": 242,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Wallis & Futuna Time",
+        "zone_name": "Pacific/Wallis",
+        "tz": "UTC+12:00",
+        "abbreviation": "WFT",
+        "country_id": 243,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Western European Summer Time",
+        "zone_name": "Africa/El_Aaiun",
+        "tz": "UTC+01:00",
+        "abbreviation": "WEST",
+        "country_id": 244,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Arabia Standard Time",
+        "zone_name": "Asia/Aden",
+        "tz": "UTC+03:00",
+        "abbreviation": "AST",
+        "country_id": 245,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Africa Time",
+        "zone_name": "Africa/Lusaka",
+        "tz": "UTC+02:00",
+        "abbreviation": "CAT",
+        "country_id": 246,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    },
+    {
+        "name": "Central Africa Time",
+        "zone_name": "Africa/Harare",
+        "tz": "UTC+02:00",
+        "abbreviation": "CAT",
+        "country_id": 247,
+        "created_at": "2023-09-12 00:02:37 +00:00"
+    }
+]
