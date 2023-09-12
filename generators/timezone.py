@@ -6,14 +6,17 @@ from utils.savedata import save_json, save_sql
 def generate_files():
 	save_name = "timezones"
 	data = []
+	count = 0
 
 	for country in load_country_data():
-		for entry in country["timezones"]:
+		for tz in country["timezones"]:
+			count = count + 1
 			obj = {
-				"name": entry["tzName"],
-				"zone_name": entry["zoneName"],
-				"tz": entry["gmtOffsetName"],
-				"abbreviation": entry["abbreviation"],
+				"id": count,
+				"name": tz["tzName"],
+				"zone_name": tz["zoneName"],
+				"tz": tz["gmtOffsetName"],
+				"abbreviation": tz["abbreviation"],
 				"country_id": country["id"],
 				"created_at": get_timestamp_tz()
 			}

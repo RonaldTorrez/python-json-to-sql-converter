@@ -3,132 +3,132 @@
         "id": 1,
         "name": "Southern Asia",
         "region_id": 1,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 2,
         "name": "Northern Europe",
         "region_id": 2,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 3,
         "name": "Southern Europe",
         "region_id": 2,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 4,
         "name": "Northern Africa",
         "region_id": 3,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 5,
         "name": "Polynesia",
         "region_id": 4,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 6,
         "name": "Middle Africa",
         "region_id": 3,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 7,
         "name": "Caribbean",
         "region_id": 5,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 8,
         "name": "South America",
         "region_id": 5,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 9,
         "name": "Western Asia",
         "region_id": 1,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 10,
         "name": "Australia and New Zealand",
         "region_id": 4,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 11,
         "name": "Western Europe",
         "region_id": 2,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 12,
         "name": "Eastern Europe",
         "region_id": 2,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 13,
         "name": "Central America",
         "region_id": 5,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 14,
         "name": "Western Africa",
         "region_id": 3,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 15,
         "name": "Northern America",
         "region_id": 5,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 16,
         "name": "Southern Africa",
         "region_id": 3,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 17,
         "name": "Eastern Africa",
         "region_id": 3,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 18,
         "name": "South-Eastern Asia",
         "region_id": 1,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 19,
         "name": "Eastern Asia",
         "region_id": 1,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 20,
         "name": "Melanesia",
         "region_id": 4,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 21,
         "name": "Micronesia",
         "region_id": 4,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     },
     {
         "id": 22,
         "name": "Central Asia",
         "region_id": 1,
-        "created_at": "2023-09-12 00:02:39 +00:00"
+        "created_at": "2023-09-12 00:41:00 +00:00"
     }
 ]

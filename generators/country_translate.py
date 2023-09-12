@@ -6,10 +6,13 @@ from utils.savedata import save_json, save_sql
 def generate_files():
 	save_name = "country_translates"
 	data = []
+	count = 0
 
 	for country in load_country_data():
 		if "es" in country["translations"]:
+			count = count + 1
 			obj = {
+				"id": count,
 				"lang": "es",
 				"name": country["translations"]["es"],
 				"country_id": country["id"],
