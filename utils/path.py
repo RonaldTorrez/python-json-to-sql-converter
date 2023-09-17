@@ -2,6 +2,7 @@ import os
 import shutil
 
 from dotenv import load_dotenv
+from utils.print import print_error
 
 load_dotenv()
 
@@ -19,6 +20,11 @@ def generate_dirs():
 	create_dir(result_dir())
 	create_dir(json_dir())
 	create_dir(sql_dir())
+	create_dir(csv_dir())
+
+	clean_dir(json_dir())
+	clean_dir(sql_dir())
+	clean_dir(csv_dir())
 
 
 def create_dir(directory):
@@ -42,6 +48,10 @@ def sql_dir() -> str:
 	return base_dir() + "/" + os.getenv("RESULT_SQL_DIR")
 
 
+def csv_dir() -> str:
+	return base_dir() + "/" + os.getenv("RESULT_CSV_DIR")
+
+
 def data_dir() -> str:
 	return base_dir() + "/" + os.getenv("DATA_DIR")
 
@@ -52,4 +62,4 @@ def clean_dir(directory: str):
 			shutil.rmtree(directory)
 			create_dir(directory)
 	except Exception as e:
-		print(f"Error to clean {directory}: {e}")
+		print_error(f"Error to clean {directory}", e)

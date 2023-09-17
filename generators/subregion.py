@@ -4,7 +4,7 @@ from data.loaddata import (
 )
 from utils.datetime import get_timestamp_tz
 from utils.other import filter_data
-from utils.savedata import save_json, save_sql
+from utils.savedata import save_csv, save_json, save_sql
 
 
 def generate_files():
@@ -36,6 +36,8 @@ def generate_files():
 
 	save_json(save_name, data)
 	save_sql(save_name)
+	save_csv(save_name)
+	print("\n")
 
 
 if __name__ == "__main__":
