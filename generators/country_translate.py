@@ -1,5 +1,6 @@
-from data.loaddata import load_country_data
+from data.loaddata import load_country_data, load_languages_data
 from utils.datetime import get_timestamp_tz
+from utils.other import filter_data
 from utils.savedata import save_json, save_sql
 
 
@@ -9,17 +10,48 @@ def generate_files():
 	count = 0
 
 	for country in load_country_data():
-		if "es" in country["translations"]:
-			count = count + 1
-			obj = {
-				"id": count,
-				"lang": "es",
-				"name": country["translations"]["es"],
-				"country_id": country["id"],
-				"created_at": get_timestamp_tz()
-			}
+		objs = country["translations"].copy()
+		objs["ko"] = objs["kr"]
+		objs.pop("kr")
+		objs["zh"] = objs["cn"]
+		objs.pop("cn")
 
-			data.append(obj)
+		for key in objs:
+			if "pt-BR" != key:
+				count = count + 1
+				lang = filter_data(
+					load_languages_data(),
+					"iso2",
+					key
+				)
+
+				if lang:
+					obj = {
+						"id": count,
+						"name": objs[key],
+						"translate_language_id": lang[0]["id"],
+						"translate_country_id": "",
+						"country_id": country["id"],
+						"created_at": get_timestamp_tz()
+					}
+
+					data.append(obj)
+
+	# for obj in objs:
+	# 	print(obj)
+	# 	data.append(obj)
+
+	# if "es" in country["translations"]:
+	# 	count = count + 1
+	# 	obj = {
+	# 		"id": count,
+	# 		"lang": "es",
+	# 		"name": country["translations"]["es"],
+	# 		"country_id": country["id"],
+	# 		"created_at": get_timestamp_tz()
+	# 	}
+	#
+	# 	data.append(obj)
 
 	save_json(save_name, data)
 	save_sql(save_name)
