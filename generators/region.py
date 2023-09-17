@@ -4,7 +4,7 @@ from utils.savedata import save_json, save_sql
 
 
 def generate_files():
-	save_name = "regiones"
+	save_name = "regions"
 	data = []
 
 	for region in load_regiones_data():

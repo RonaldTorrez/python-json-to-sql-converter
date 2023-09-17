@@ -30,6 +30,13 @@ def load_languages_data():
 	)
 
 
+def load_macrolanguages_data():
+	return get_json_data(
+		"macrolanguages",
+		data_dir()
+	)
+
+
 def load_regiones_data():
 	return get_json_data(
 		"regiones",

@@ -8,7 +8,7 @@ from utils.savedata import save_json, save_sql
 
 
 def generate_files():
-	save_name = "subregiones"
+	save_name = "subregions"
 	data = []
 	subregion_data = []
 

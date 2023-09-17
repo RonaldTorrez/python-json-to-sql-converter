@@ -1,0 +1,1818 @@
+[
+	{
+		"lang_id": "fat",
+		"macro_id": "aka"
+	},
+	{
+		"lang_id": "twi",
+		"macro_id": "aka"
+	},
+	{
+		"lang_id": "aao",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "abh",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "abv",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "acm",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "acq",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "acw",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "acx",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "acy",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "adf",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "aeb",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "aec",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "afb",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "ajp",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "apc",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "apd",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "arb",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "arq",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "ars",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "ary",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "arz",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "auz",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "avl",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "ayh",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "ayl",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "ayn",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "ayp",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "bbz",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "pga",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "shu",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "ssh",
+		"macro_id": "ara"
+	},
+	{
+		"lang_id": "ayc",
+		"macro_id": "aym"
+	},
+	{
+		"lang_id": "ayr",
+		"macro_id": "aym"
+	},
+	{
+		"lang_id": "azb",
+		"macro_id": "aze"
+	},
+	{
+		"lang_id": "azj",
+		"macro_id": "aze"
+	},
+	{
+		"lang_id": "bcc",
+		"macro_id": "bal"
+	},
+	{
+		"lang_id": "bgn",
+		"macro_id": "bal"
+	},
+	{
+		"lang_id": "bgp",
+		"macro_id": "bal"
+	},
+	{
+		"lang_id": "bcl",
+		"macro_id": "bik"
+	},
+	{
+		"lang_id": "bhk",
+		"macro_id": "bik"
+	},
+	{
+		"lang_id": "bln",
+		"macro_id": "bik"
+	},
+	{
+		"lang_id": "bto",
+		"macro_id": "bik"
+	},
+	{
+		"lang_id": "cts",
+		"macro_id": "bik"
+	},
+	{
+		"lang_id": "fbl",
+		"macro_id": "bik"
+	},
+	{
+		"lang_id": "lbl",
+		"macro_id": "bik"
+	},
+	{
+		"lang_id": "rbl",
+		"macro_id": "bik"
+	},
+	{
+		"lang_id": "ubl",
+		"macro_id": "bik"
+	},
+	{
+		"lang_id": "ebk",
+		"macro_id": "bnc"
+	},
+	{
+		"lang_id": "lbk",
+		"macro_id": "bnc"
+	},
+	{
+		"lang_id": "obk",
+		"macro_id": "bnc"
+	},
+	{
+		"lang_id": "rbk",
+		"macro_id": "bnc"
+	},
+	{
+		"lang_id": "vbk",
+		"macro_id": "bnc"
+	},
+	{
+		"lang_id": "bxm",
+		"macro_id": "bua"
+	},
+	{
+		"lang_id": "bxr",
+		"macro_id": "bua"
+	},
+	{
+		"lang_id": "bxu",
+		"macro_id": "bua"
+	},
+	{
+		"lang_id": "mhr",
+		"macro_id": "chm"
+	},
+	{
+		"lang_id": "mrj",
+		"macro_id": "chm"
+	},
+	{
+		"lang_id": "crj",
+		"macro_id": "cre"
+	},
+	{
+		"lang_id": "crk",
+		"macro_id": "cre"
+	},
+	{
+		"lang_id": "crl",
+		"macro_id": "cre"
+	},
+	{
+		"lang_id": "crm",
+		"macro_id": "cre"
+	},
+	{
+		"lang_id": "csw",
+		"macro_id": "cre"
+	},
+	{
+		"lang_id": "cwd",
+		"macro_id": "cre"
+	},
+	{
+		"lang_id": "umu",
+		"macro_id": "del"
+	},
+	{
+		"lang_id": "unm",
+		"macro_id": "del"
+	},
+	{
+		"lang_id": "scs",
+		"macro_id": "den"
+	},
+	{
+		"lang_id": "xsl",
+		"macro_id": "den"
+	},
+	{
+		"lang_id": "dib",
+		"macro_id": "din"
+	},
+	{
+		"lang_id": "dik",
+		"macro_id": "din"
+	},
+	{
+		"lang_id": "dip",
+		"macro_id": "din"
+	},
+	{
+		"lang_id": "diw",
+		"macro_id": "din"
+	},
+	{
+		"lang_id": "dks",
+		"macro_id": "din"
+	},
+	{
+		"lang_id": "dgo",
+		"macro_id": "doi"
+	},
+	{
+		"lang_id": "xnr",
+		"macro_id": "doi"
+	},
+	{
+		"lang_id": "ekk",
+		"macro_id": "est"
+	},
+	{
+		"lang_id": "vro",
+		"macro_id": "est"
+	},
+	{
+		"lang_id": "pes",
+		"macro_id": "fas"
+	},
+	{
+		"lang_id": "prs",
+		"macro_id": "fas"
+	},
+	{
+		"lang_id": "ffm",
+		"macro_id": "ful"
+	},
+	{
+		"lang_id": "fub",
+		"macro_id": "ful"
+	},
+	{
+		"lang_id": "fuc",
+		"macro_id": "ful"
+	},
+	{
+		"lang_id": "fue",
+		"macro_id": "ful"
+	},
+	{
+		"lang_id": "fuf",
+		"macro_id": "ful"
+	},
+	{
+		"lang_id": "fuh",
+		"macro_id": "ful"
+	},
+	{
+		"lang_id": "fui",
+		"macro_id": "ful"
+	},
+	{
+		"lang_id": "fuq",
+		"macro_id": "ful"
+	},
+	{
+		"lang_id": "fuv",
+		"macro_id": "ful"
+	},
+	{
+		"lang_id": "bdt",
+		"macro_id": "gba"
+	},
+	{
+		"lang_id": "gbp",
+		"macro_id": "gba"
+	},
+	{
+		"lang_id": "gbq",
+		"macro_id": "gba"
+	},
+	{
+		"lang_id": "gmm",
+		"macro_id": "gba"
+	},
+	{
+		"lang_id": "gso",
+		"macro_id": "gba"
+	},
+	{
+		"lang_id": "gya",
+		"macro_id": "gba"
+	},
+	{
+		"lang_id": "mdo",
+		"macro_id": "gba"
+	},
+	{
+		"lang_id": "esg",
+		"macro_id": "gon"
+	},
+	{
+		"lang_id": "ggo",
+		"macro_id": "gon"
+	},
+	{
+		"lang_id": "gno",
+		"macro_id": "gon"
+	},
+	{
+		"lang_id": "wsg",
+		"macro_id": "gon"
+	},
+	{
+		"lang_id": "gbo",
+		"macro_id": "grb"
+	},
+	{
+		"lang_id": "gec",
+		"macro_id": "grb"
+	},
+	{
+		"lang_id": "grj",
+		"macro_id": "grb"
+	},
+	{
+		"lang_id": "grv",
+		"macro_id": "grb"
+	},
+	{
+		"lang_id": "gry",
+		"macro_id": "grb"
+	},
+	{
+		"lang_id": "gnw",
+		"macro_id": "grn"
+	},
+	{
+		"lang_id": "gug",
+		"macro_id": "grn"
+	},
+	{
+		"lang_id": "gui",
+		"macro_id": "grn"
+	},
+	{
+		"lang_id": "gun",
+		"macro_id": "grn"
+	},
+	{
+		"lang_id": "nhd",
+		"macro_id": "grn"
+	},
+	{
+		"lang_id": "hax",
+		"macro_id": "hai"
+	},
+	{
+		"lang_id": "hdn",
+		"macro_id": "hai"
+	},
+	{
+		"lang_id": "bos",
+		"macro_id": "hbs"
+	},
+	{
+		"lang_id": "cnr",
+		"macro_id": "hbs"
+	},
+	{
+		"lang_id": "hrv",
+		"macro_id": "hbs"
+	},
+	{
+		"lang_id": "srp",
+		"macro_id": "hbs"
+	},
+	{
+		"lang_id": "blu",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "cqd",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hea",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hma",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmc",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmd",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hme",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmg",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmh",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmi",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmj",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hml",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmm",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmp",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmq",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hms",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmw",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmy",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hmz",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hnj",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "hrm",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "huj",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "mmr",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "muq",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "mww",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "sfm",
+		"macro_id": "hmn"
+	},
+	{
+		"lang_id": "ike",
+		"macro_id": "iku"
+	},
+	{
+		"lang_id": "ikt",
+		"macro_id": "iku"
+	},
+	{
+		"lang_id": "esi",
+		"macro_id": "ipk"
+	},
+	{
+		"lang_id": "esk",
+		"macro_id": "ipk"
+	},
+	{
+		"lang_id": "ajt",
+		"macro_id": "jrb"
+	},
+	{
+		"lang_id": "aju",
+		"macro_id": "jrb"
+	},
+	{
+		"lang_id": "jye",
+		"macro_id": "jrb"
+	},
+	{
+		"lang_id": "yhd",
+		"macro_id": "jrb"
+	},
+	{
+		"lang_id": "yud",
+		"macro_id": "jrb"
+	},
+	{
+		"lang_id": "kby",
+		"macro_id": "kau"
+	},
+	{
+		"lang_id": "knc",
+		"macro_id": "kau"
+	},
+	{
+		"lang_id": "krt",
+		"macro_id": "kau"
+	},
+	{
+		"lang_id": "enb",
+		"macro_id": "kln"
+	},
+	{
+		"lang_id": "eyo",
+		"macro_id": "kln"
+	},
+	{
+		"lang_id": "niq",
+		"macro_id": "kln"
+	},
+	{
+		"lang_id": "oki",
+		"macro_id": "kln"
+	},
+	{
+		"lang_id": "pko",
+		"macro_id": "kln"
+	},
+	{
+		"lang_id": "sgc",
+		"macro_id": "kln"
+	},
+	{
+		"lang_id": "spy",
+		"macro_id": "kln"
+	},
+	{
+		"lang_id": "tec",
+		"macro_id": "kln"
+	},
+	{
+		"lang_id": "tuy",
+		"macro_id": "kln"
+	},
+	{
+		"lang_id": "gom",
+		"macro_id": "kok"
+	},
+	{
+		"lang_id": "knn",
+		"macro_id": "kok"
+	},
+	{
+		"lang_id": "koi",
+		"macro_id": "kom"
+	},
+	{
+		"lang_id": "kpv",
+		"macro_id": "kom"
+	},
+	{
+		"lang_id": "kng",
+		"macro_id": "kon"
+	},
+	{
+		"lang_id": "kwy",
+		"macro_id": "kon"
+	},
+	{
+		"lang_id": "ldi",
+		"macro_id": "kon"
+	},
+	{
+		"lang_id": "gkp",
+		"macro_id": "kpe"
+	},
+	{
+		"lang_id": "xpe",
+		"macro_id": "kpe"
+	},
+	{
+		"lang_id": "ckb",
+		"macro_id": "kur"
+	},
+	{
+		"lang_id": "kmr",
+		"macro_id": "kur"
+	},
+	{
+		"lang_id": "sdh",
+		"macro_id": "kur"
+	},
+	{
+		"lang_id": "hnd",
+		"macro_id": "lah"
+	},
+	{
+		"lang_id": "hno",
+		"macro_id": "lah"
+	},
+	{
+		"lang_id": "jat",
+		"macro_id": "lah"
+	},
+	{
+		"lang_id": "phr",
+		"macro_id": "lah"
+	},
+	{
+		"lang_id": "pmu",
+		"macro_id": "lah"
+	},
+	{
+		"lang_id": "pnb",
+		"macro_id": "lah"
+	},
+	{
+		"lang_id": "skr",
+		"macro_id": "lah"
+	},
+	{
+		"lang_id": "xhe",
+		"macro_id": "lah"
+	},
+	{
+		"lang_id": "ltg",
+		"macro_id": "lav"
+	},
+	{
+		"lang_id": "lvs",
+		"macro_id": "lav"
+	},
+	{
+		"lang_id": "bxk",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "ida",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "lkb",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "lko",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "lks",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "lri",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "lrm",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "lsm",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "lto",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "lts",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "lwg",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "nle",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "nyd",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "rag",
+		"macro_id": "luy"
+	},
+	{
+		"lang_id": "emk",
+		"macro_id": "man"
+	},
+	{
+		"lang_id": "mku",
+		"macro_id": "man"
+	},
+	{
+		"lang_id": "mlq",
+		"macro_id": "man"
+	},
+	{
+		"lang_id": "mnk",
+		"macro_id": "man"
+	},
+	{
+		"lang_id": "msc",
+		"macro_id": "man"
+	},
+	{
+		"lang_id": "mwk",
+		"macro_id": "man"
+	},
+	{
+		"lang_id": "myq",
+		"macro_id": "man"
+	},
+	{
+		"lang_id": "bhr",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "bjq",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "bmm",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "bzc",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "msh",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "plt",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "skg",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "tdx",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "tkg",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "txy",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "xmv",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "xmw",
+		"macro_id": "mlg"
+	},
+	{
+		"lang_id": "khk",
+		"macro_id": "mon"
+	},
+	{
+		"lang_id": "mvf",
+		"macro_id": "mon"
+	},
+	{
+		"lang_id": "bjn",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "btj",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "bve",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "bvu",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "coa",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "dup",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "hji",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "ind",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "jak",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "jax",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "kvb",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "kvr",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "kxd",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "lce",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "lcf",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "liw",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "max",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "meo",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "mfa",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "mfb",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "min",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "mly",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "mqg",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "msi",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "mui",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "orn",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "ors",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "pel",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "pse",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "tmw",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "urk",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "vkk",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "vkt",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "xmm",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "zlm",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "zmi",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "zsm",
+		"macro_id": "msa"
+	},
+	{
+		"lang_id": "dhd",
+		"macro_id": "mwr"
+	},
+	{
+		"lang_id": "mtr",
+		"macro_id": "mwr"
+	},
+	{
+		"lang_id": "mve",
+		"macro_id": "mwr"
+	},
+	{
+		"lang_id": "rwr",
+		"macro_id": "mwr"
+	},
+	{
+		"lang_id": "swv",
+		"macro_id": "mwr"
+	},
+	{
+		"lang_id": "wry",
+		"macro_id": "mwr"
+	},
+	{
+		"lang_id": "dty",
+		"macro_id": "nep"
+	},
+	{
+		"lang_id": "npi",
+		"macro_id": "nep"
+	},
+	{
+		"lang_id": "nno",
+		"macro_id": "nor"
+	},
+	{
+		"lang_id": "nob",
+		"macro_id": "nor"
+	},
+	{
+		"lang_id": "ciw",
+		"macro_id": "oji"
+	},
+	{
+		"lang_id": "ojb",
+		"macro_id": "oji"
+	},
+	{
+		"lang_id": "ojc",
+		"macro_id": "oji"
+	},
+	{
+		"lang_id": "ojg",
+		"macro_id": "oji"
+	},
+	{
+		"lang_id": "ojs",
+		"macro_id": "oji"
+	},
+	{
+		"lang_id": "ojw",
+		"macro_id": "oji"
+	},
+	{
+		"lang_id": "otw",
+		"macro_id": "oji"
+	},
+	{
+		"lang_id": "ory",
+		"macro_id": "ori"
+	},
+	{
+		"lang_id": "spv",
+		"macro_id": "ori"
+	},
+	{
+		"lang_id": "gax",
+		"macro_id": "orm"
+	},
+	{
+		"lang_id": "gaz",
+		"macro_id": "orm"
+	},
+	{
+		"lang_id": "hae",
+		"macro_id": "orm"
+	},
+	{
+		"lang_id": "orc",
+		"macro_id": "orm"
+	},
+	{
+		"lang_id": "pbt",
+		"macro_id": "pus"
+	},
+	{
+		"lang_id": "pbu",
+		"macro_id": "pus"
+	},
+	{
+		"lang_id": "pst",
+		"macro_id": "pus"
+	},
+	{
+		"lang_id": "cqu",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qub",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qud",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "quf",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qug",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "quh",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "quk",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qul",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qup",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qur",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qus",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "quw",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qux",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "quy",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "quz",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qva",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvc",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qve",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvh",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvi",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvj",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvl",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvm",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvn",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvo",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvp",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvs",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvw",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qvz",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qwa",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qwc",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qwh",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qws",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxa",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxc",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxh",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxl",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxn",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxo",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxp",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxr",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxt",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxu",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "qxw",
+		"macro_id": "que"
+	},
+	{
+		"lang_id": "bgq",
+		"macro_id": "raj"
+	},
+	{
+		"lang_id": "gda",
+		"macro_id": "raj"
+	},
+	{
+		"lang_id": "gju",
+		"macro_id": "raj"
+	},
+	{
+		"lang_id": "hoj",
+		"macro_id": "raj"
+	},
+	{
+		"lang_id": "mup",
+		"macro_id": "raj"
+	},
+	{
+		"lang_id": "wbr",
+		"macro_id": "raj"
+	},
+	{
+		"lang_id": "rmc",
+		"macro_id": "rom"
+	},
+	{
+		"lang_id": "rmf",
+		"macro_id": "rom"
+	},
+	{
+		"lang_id": "rml",
+		"macro_id": "rom"
+	},
+	{
+		"lang_id": "rmn",
+		"macro_id": "rom"
+	},
+	{
+		"lang_id": "rmo",
+		"macro_id": "rom"
+	},
+	{
+		"lang_id": "rmw",
+		"macro_id": "rom"
+	},
+	{
+		"lang_id": "rmy",
+		"macro_id": "rom"
+	},
+	{
+		"lang_id": "aae",
+		"macro_id": "sqi"
+	},
+	{
+		"lang_id": "aat",
+		"macro_id": "sqi"
+	},
+	{
+		"lang_id": "aln",
+		"macro_id": "sqi"
+	},
+	{
+		"lang_id": "als",
+		"macro_id": "sqi"
+	},
+	{
+		"lang_id": "sdc",
+		"macro_id": "srd"
+	},
+	{
+		"lang_id": "sdn",
+		"macro_id": "srd"
+	},
+	{
+		"lang_id": "src",
+		"macro_id": "srd"
+	},
+	{
+		"lang_id": "sro",
+		"macro_id": "srd"
+	},
+	{
+		"lang_id": "swc",
+		"macro_id": "swa"
+	},
+	{
+		"lang_id": "swh",
+		"macro_id": "swa"
+	},
+	{
+		"lang_id": "aii",
+		"macro_id": "syr"
+	},
+	{
+		"lang_id": "cld",
+		"macro_id": "syr"
+	},
+	{
+		"lang_id": "taq",
+		"macro_id": "tmh"
+	},
+	{
+		"lang_id": "thv",
+		"macro_id": "tmh"
+	},
+	{
+		"lang_id": "thz",
+		"macro_id": "tmh"
+	},
+	{
+		"lang_id": "ttq",
+		"macro_id": "tmh"
+	},
+	{
+		"lang_id": "uzn",
+		"macro_id": "uzb"
+	},
+	{
+		"lang_id": "uzs",
+		"macro_id": "uzb"
+	},
+	{
+		"lang_id": "ydd",
+		"macro_id": "yid"
+	},
+	{
+		"lang_id": "yih",
+		"macro_id": "yid"
+	},
+	{
+		"lang_id": "zaa",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zab",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zac",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zad",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zae",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zaf",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zai",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zam",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zao",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zaq",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zar",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zas",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zat",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zav",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zaw",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zax",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zca",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zcd",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zoo",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpa",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpb",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpc",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpd",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpe",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpf",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpg",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zph",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpi",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpj",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpk",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpl",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpm",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpn",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpo",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpp",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpq",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpr",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zps",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpt",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpu",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpv",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpw",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpx",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpy",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zpz",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zsr",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztc",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zte",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztg",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztl",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztm",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztn",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztp",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztq",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zts",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztt",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztu",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ztx",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "zty",
+		"macro_id": "zap"
+	},
+	{
+		"lang_id": "ccx",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "ccy",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zch",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zeh",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zgb",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zgm",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zgn",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zhd",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zhn",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zlj",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zln",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zlq",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zqe",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zyb",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zyg",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zyj",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zyn",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "zzj",
+		"macro_id": "zha"
+	},
+	{
+		"lang_id": "cdo",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "cjy",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "cmn",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "cnp",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "cpx",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "csp",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "czh",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "czo",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "gan",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "hak",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "hsn",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "lzh",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "mnp",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "nan",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "wuu",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "yue",
+		"macro_id": "zho"
+	},
+	{
+		"lang_id": "diq",
+		"macro_id": "zza"
+	},
+	{
+		"lang_id": "kiu",
+		"macro_id": "zza"
+	}
+]
