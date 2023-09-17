@@ -1,8 +1,7 @@
 from generators import (
-	cities, country, country_language, country_translate, language, region, state, timezone,
-	subregion
+	cities, country, country_language, country_translate, language, region, state, subregion, timezone
 )
-from utils.path import clean_dir, generate_dirs, json_dir, sql_dir
+from utils.path import generate_dirs
 
 
 def main():
@@ -11,8 +10,6 @@ def main():
 	# ===============================
 
 	generate_dirs()
-	clean_dir(json_dir())
-	clean_dir(sql_dir())
 
 	print("cleaned")
 

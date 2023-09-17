@@ -1,7 +1,7 @@
 from data.loaddata import load_country_data, load_languages_data
 from utils.datetime import get_timestamp_tz
 from utils.other import filter_data
-from utils.savedata import save_json, save_sql
+from utils.savedata import save_csv, save_json, save_sql
 
 
 def generate_files():
@@ -37,24 +37,10 @@ def generate_files():
 
 					data.append(obj)
 
-	# for obj in objs:
-	# 	print(obj)
-	# 	data.append(obj)
-
-	# if "es" in country["translations"]:
-	# 	count = count + 1
-	# 	obj = {
-	# 		"id": count,
-	# 		"lang": "es",
-	# 		"name": country["translations"]["es"],
-	# 		"country_id": country["id"],
-	# 		"created_at": get_timestamp_tz()
-	# 	}
-	#
-	# 	data.append(obj)
-
 	save_json(save_name, data)
 	save_sql(save_name)
+	save_csv(save_name)
+	print("\n")
 
 
 if __name__ == "__main__":
