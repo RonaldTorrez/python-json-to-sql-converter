@@ -37,7 +37,6 @@ def generate_files():
 	save_json(save_name, data)
 	save_sql(save_name)
 	save_csv(save_name)
-	print("\n")
 
 
 if __name__ == "__main__":
