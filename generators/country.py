@@ -10,9 +10,14 @@ from utils.savedata import save_csv, save_json, save_sql
 def generate_files():
 	save_name = "countries"
 	data = []
+	count = 0
 
 	for country in load_country_data():
+		count = count + 1
+
 		obj = country.copy()
+		obj.pop("id")
+		obj["id"] = count
 		obj.pop("timezones")
 		obj.pop("translations")
 		obj.pop("states")
@@ -23,7 +28,7 @@ def generate_files():
 		# OFFICIAL LANGUAGE RELATION
 		# ===============================
 
-		obj["language_id"] = ""
+		obj["official_language_id"] = None
 
 		official_lang = filter_data(
 			load_country_official_lang_data(),
@@ -38,13 +43,13 @@ def generate_files():
 				official_lang[0]["language_iso2"]
 			)
 			if lang:
-				obj["language_id"] = lang[0]["id"]
+				obj["official_language_id"] = lang[0]["id"]
 
 		# ===============================
 		# REGION RELATION
 		# ===============================
 
-		obj["region_id"] = ""
+		obj["region_id"] = None
 
 		if country["region"]:
 			region = filter_data(
@@ -60,7 +65,7 @@ def generate_files():
 		# SUBREGION RELATION
 		# ===============================
 
-		obj["subregion_id"] = ""
+		obj["subregion_id"] = None
 
 		if country["subregion"]:
 			subregion = filter_data(
