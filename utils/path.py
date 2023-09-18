@@ -2,6 +2,7 @@ import os
 import shutil
 
 from dotenv import load_dotenv
+
 from utils.print import print_error
 
 load_dotenv()
@@ -22,14 +23,12 @@ def generate_dirs():
 	create_dir(sql_dir())
 	create_dir(csv_dir())
 
-	clean_dir(json_dir())
-	clean_dir(sql_dir())
-	clean_dir(csv_dir())
-
 
 def create_dir(directory):
 	if not is_validate_path(directory):
 		os.makedirs(directory)
+	else:
+		clean_dir(directory)
 
 
 def is_validate_path(directory) -> bool:
