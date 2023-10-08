@@ -1,7 +1,6 @@
 from data.loaddata import (
 	load_country_data, load_country_official_lang_data, load_country_other_lang_data, load_languages_data
 )
-from utils.datetime import get_timestamp_tz
 from utils.other import filter_data, text_to_array
 from utils.savedata import save_csv, save_json, save_sql
 
@@ -42,8 +41,6 @@ def generate_files():
 						"country_id": country["id"],
 						"language_id": lang[0]["id"],
 						"is_official": is_official_lang,
-
-						"created_at": get_timestamp_tz()
 					}
 
 					data.append(obj)

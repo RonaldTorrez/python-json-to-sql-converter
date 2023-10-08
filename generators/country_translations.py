@@ -5,7 +5,7 @@ from utils.savedata import save_csv, save_json, save_sql
 
 
 def generate_files():
-	save_name = "country_translates"
+	save_name = "country_translations"
 	data = []
 	count = 0
 
@@ -30,7 +30,7 @@ def generate_files():
 						"id": count,
 						"name": objs[key],
 						"translate_language_id": lang[0]["id"],
-						"translate_country_id": "",
+						"translate_country_id": None,
 						"country_id": country["id"],
 						"created_at": get_timestamp_tz()
 					}

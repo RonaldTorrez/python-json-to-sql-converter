@@ -20,3 +20,22 @@ def text_to_array(text: str, separator: str = ",", trim: bool = True) -> list:
 
 	except Exception as e:
 		print_error(f"Error to convert to Array = {text}", e)
+
+
+def unique_key(json_data: [object]):
+	keys = []
+
+	for data in json_data:
+		keys.extend(data.keys())
+
+	keys = list(set(keys))
+
+	return keys
+
+
+def sort_obj(json_data: [object], order_by: str, asc: bool = True):
+	return sorted(
+		json_data,
+		key=lambda x: getattr(x, order_by),
+		reverse=not asc
+	)

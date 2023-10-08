@@ -1,5 +1,6 @@
 from generators import (
-	cities, country, country_language, country_translate, language, region, state, subregion, timezone
+	cities, country, country_language, country_translations, language, region, state, subregion,
+	timezone
 )
 from utils.path import generate_dirs
 
@@ -18,7 +19,7 @@ def main():
 	# ===============================
 
 	country.generate_files()
-	country_translate.generate_files()
+	country_translations.generate_files()
 	timezone.generate_files()
 	state.generate_files()
 	cities.generate_files()

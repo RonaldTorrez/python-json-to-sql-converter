@@ -11,7 +11,6 @@ def generate_files():
 		for state in country["states"]:
 			for entry in state["cities"]:
 				obj = entry.copy()
-
 				obj["country_id"] = country["id"]
 				obj["state_id"] = state["id"]
 				obj["created_at"] = get_timestamp_tz()

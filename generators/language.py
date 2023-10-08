@@ -10,7 +10,7 @@ def generate_files():
 
 	for language in load_languages_data():
 		obj = language.copy()
-		obj["microlanguage_id"] = ""
+		obj["microlanguage_id"] = None
 
 		micro_lang = filter_data(
 			load_macrolanguages_data(),

@@ -10,14 +10,9 @@ from utils.savedata import save_csv, save_json, save_sql
 def generate_files():
 	save_name = "countries"
 	data = []
-	count = 0
 
 	for country in load_country_data():
-		count = count + 1
-
 		obj = country.copy()
-		obj.pop("id")
-		obj["id"] = count
 		obj.pop("timezones")
 		obj.pop("translations")
 		obj.pop("states")

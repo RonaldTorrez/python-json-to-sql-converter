@@ -2,6 +2,7 @@ import csv
 import json
 
 from utils.getdata import get_json_data
+from utils.other import unique_key
 from utils.path import csv_dir, file_path, json_dir, sql_dir
 from utils.print import print_error, print_saved
 
@@ -85,20 +86,3 @@ def save_csv(json_filename: str, directory: str = csv_dir()):
 				writer.writerow(values)
 
 	print_saved(file)
-
-
-def unique_key(json_data: [object]):
-	keys = []
-
-	for data in json_data:
-		keys.extend(data.keys())
-
-	keys = list(set(keys))
-
-	return keys
-
-# print(
-# 	unique_key(
-# 		file_path("countries.json", json_dir())
-# 	)
-# )
