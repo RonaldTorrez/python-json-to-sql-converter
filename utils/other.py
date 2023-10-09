@@ -39,3 +39,7 @@ def sort_obj(json_data: [object], order_by: str, asc: bool = True):
 		key=lambda x: getattr(x, order_by),
 		reverse=not asc
 	)
+
+
+def normalize_geodata(geodata):
+	return geodata if geodata != "0.00000000" else None

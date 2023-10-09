@@ -3,7 +3,7 @@ from data.loaddata import (
 	load_subregiones_data
 )
 from utils.datetime import get_timestamp
-from utils.other import filter_data
+from utils.other import filter_data, normalize_geodata
 from utils.savedata import save_csv, save_json, save_sql
 
 
@@ -18,6 +18,10 @@ def generate_files():
 		obj.pop("states")
 		obj.pop("region")
 		obj.pop("subregion")
+
+		if obj["latitude"] == "0.00000000" and obj["longitude"] == "0.00000000":
+			obj["latitude"] = normalize_geodata(obj["latitude"])
+			obj["longitude"] = normalize_geodata(obj["longitude"])
 
 		# ===============================
 		# OFFICIAL LANGUAGE RELATION
