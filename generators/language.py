@@ -1,5 +1,5 @@
 from data.loaddata import load_languages_data, load_macrolanguages_data
-from utils.datetime import get_timestamp_tz
+from utils.datetime import get_timestamp
 from utils.other import filter_data
 from utils.savedata import save_csv, save_json, save_sql
 
@@ -25,7 +25,7 @@ def generate_files():
 				micro_lang[0]["macro_id"]
 			)[0]["id"]
 
-		obj["created_at"] = get_timestamp_tz()
+		obj["created_at"] = get_timestamp()
 
 		data.append(obj)
 

@@ -2,7 +2,7 @@ from data.loaddata import (
 	load_country_data, load_regiones_data,
 	load_subregiones_data
 )
-from utils.datetime import get_timestamp_tz
+from utils.datetime import get_timestamp
 from utils.other import filter_data
 from utils.savedata import save_csv, save_json, save_sql
 
@@ -28,7 +28,7 @@ def generate_files():
 		for subreg in subregion:
 			obj = subreg.copy()
 			obj["region_id"] = region[0]["id"]
-			obj["created_at"] = get_timestamp_tz()
+			obj["created_at"] = get_timestamp()
 
 			subregion_data.append(obj)
 

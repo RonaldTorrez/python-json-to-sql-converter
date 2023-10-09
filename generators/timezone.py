@@ -1,5 +1,5 @@
 from data.loaddata import load_country_data
-from utils.datetime import get_timestamp_tz
+from utils.datetime import get_timestamp
 from utils.savedata import save_csv, save_json, save_sql
 
 
@@ -18,7 +18,7 @@ def generate_files():
 				"tz": tz["gmtOffsetName"],
 				"abbreviation": tz["abbreviation"],
 				"country_id": country["id"],
-				"created_at": get_timestamp_tz()
+				"created_at": get_timestamp()
 			}
 
 			data.append(obj)

@@ -2,7 +2,7 @@ from data.loaddata import (
 	load_country_data, load_country_official_lang_data, load_languages_data, load_regiones_data,
 	load_subregiones_data
 )
-from utils.datetime import get_timestamp_tz
+from utils.datetime import get_timestamp
 from utils.other import filter_data
 from utils.savedata import save_csv, save_json, save_sql
 
@@ -72,7 +72,7 @@ def generate_files():
 			if subregion:
 				obj["subregion_id"] = subregion[0]["id"]
 
-		obj["created_at"] = get_timestamp_tz()
+		obj["created_at"] = get_timestamp()
 
 		data.append(obj)
 
